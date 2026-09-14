@@ -1,0 +1,19 @@
+{
+  "current_stage_id": 1,
+  "total_xp": 172,
+  "milestone_progress": {
+    "facts_learned": 2,
+    "questions_asked": 22,
+    "conversations_completed": 1,
+    "corrections_accepted": 3
+  },
+  "stage_history": [
+    {
+      "stage_id": 1,
+      "entered_at": 1779181939.5504496,
+      "xp_at_entry": 0
+    }
+  ],
+  "total_interactions": 61,
+  "birth_time": 1779181939.5504522
+}

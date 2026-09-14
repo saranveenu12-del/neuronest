@@ -1,0 +1,626 @@
+[
+  {
+    "fact": "that the sun is a star",
+    "source": "user_teaching",
+    "category": "nature",
+    "timestamp": 1779181987.015927,
+    "recall_count": 11,
+    "confidence": 0.8
+  },
+  {
+    "fact": "I am excited about this!",
+    "source": "conversation",
+    "category": "general",
+    "timestamp": 1779181987.0544093,
+    "recall_count": 10,
+    "confidence": 0.8
+  },
+  {
+    "fact": "Did you know that the sun is a star?",
+    "source": "conversation",
+    "category": "general",
+    "timestamp": 1779710611.4506943,
+    "recall_count": 3,
+    "confidence": 0.8
+  },
+  {
+    "fact": "AI safety is an important concept in Ethics",
+    "source": "showcase_import",
+    "category": "Ethics",
+    "timestamp": 1783178166.0889847,
+    "recall_count": 2,
+    "confidence": 0.8
+  },
+  {
+    "fact": "Understanding AI safety requires deep analysis",
+    "source": "showcase_import",
+    "category": "Ethics",
+    "timestamp": 1783178166.090671,
+    "recall_count": 2,
+    "confidence": 0.8
+  },
+  {
+    "fact": "AI safety has significant implications for modern society",
+    "source": "showcase_import",
+    "category": "Ethics",
+    "timestamp": 1783178166.0924094,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "ancient civilizations is an important concept in History",
+    "source": "showcase_import",
+    "category": "History",
+    "timestamp": 1783178166.109205,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "Understanding ancient civilizations requires deep analysis",
+    "source": "showcase_import",
+    "category": "History",
+    "timestamp": 1783178166.1108408,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "ancient civilizations has significant implications for modern society",
+    "source": "showcase_import",
+    "category": "History",
+    "timestamp": 1783178166.1127734,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "augmented reality is an important concept in Technology",
+    "source": "showcase_import",
+    "category": "Technology",
+    "timestamp": 1783178166.1300445,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "Understanding augmented reality requires deep analysis",
+    "source": "showcase_import",
+    "category": "Technology",
+    "timestamp": 1783178166.1319337,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "augmented reality has significant implications for modern society",
+    "source": "showcase_import",
+    "category": "Technology",
+    "timestamp": 1783178166.1336513,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "bioethics is an important concept in Ethics",
+    "source": "showcase_import",
+    "category": "Ethics",
+    "timestamp": 1783178166.157373,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "Understanding bioethics requires deep analysis",
+    "source": "showcase_import",
+    "category": "Ethics",
+    "timestamp": 1783178166.1588266,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "bioethics has significant implications for modern society",
+    "source": "showcase_import",
+    "category": "Ethics",
+    "timestamp": 1783178166.160221,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "black holes is an important concept in Science",
+    "source": "showcase_import",
+    "category": "Science",
+    "timestamp": 1783178166.1770308,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "Understanding black holes requires deep analysis",
+    "source": "showcase_import",
+    "category": "Science",
+    "timestamp": 1783178166.1786356,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "black holes has significant implications for modern society",
+    "source": "showcase_import",
+    "category": "Science",
+    "timestamp": 1783178166.1814942,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "blockchain is an important concept in Technology",
+    "source": "showcase_import",
+    "category": "Technology",
+    "timestamp": 1783178166.1981769,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "Understanding blockchain requires deep analysis",
+    "source": "showcase_import",
+    "category": "Technology",
+    "timestamp": 1783178166.2005587,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "blockchain has significant implications for modern society",
+    "source": "showcase_import",
+    "category": "Technology",
+    "timestamp": 1783178166.2029092,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "cloud computing is an important concept in Technology",
+    "source": "showcase_import",
+    "category": "Technology",
+    "timestamp": 1783178166.2216482,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "Understanding cloud computing requires deep analysis",
+    "source": "showcase_import",
+    "category": "Technology",
+    "timestamp": 1783178166.2234862,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "cloud computing has significant implications for modern society",
+    "source": "showcase_import",
+    "category": "Technology",
+    "timestamp": 1783178166.2254953,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "cultural diversity is an important concept in Humanity",
+    "source": "showcase_import",
+    "category": "Humanity",
+    "timestamp": 1783178166.2460024,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "Understanding cultural diversity requires deep analysis",
+    "source": "showcase_import",
+    "category": "Humanity",
+    "timestamp": 1783178166.2491393,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "cultural diversity has significant implications for modern society",
+    "source": "showcase_import",
+    "category": "Humanity",
+    "timestamp": 1783178166.2512555,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "cybersecurity is an important concept in Technology",
+    "source": "showcase_import",
+    "category": "Technology",
+    "timestamp": 1783178166.2705653,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "Understanding cybersecurity requires deep analysis",
+    "source": "showcase_import",
+    "category": "Technology",
+    "timestamp": 1783178166.2722118,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "cybersecurity has significant implications for modern society",
+    "source": "showcase_import",
+    "category": "Technology",
+    "timestamp": 1783178166.273845,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "digital privacy is an important concept in Ethics",
+    "source": "showcase_import",
+    "category": "Ethics",
+    "timestamp": 1783178166.2941854,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "Understanding digital privacy requires deep analysis",
+    "source": "showcase_import",
+    "category": "Ethics",
+    "timestamp": 1783178166.2963064,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "digital privacy has significant implications for modern society",
+    "source": "showcase_import",
+    "category": "Ethics",
+    "timestamp": 1783178166.2996724,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "edge computing is an important concept in Technology",
+    "source": "showcase_import",
+    "category": "Technology",
+    "timestamp": 1783178166.319263,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "Understanding edge computing requires deep analysis",
+    "source": "showcase_import",
+    "category": "Technology",
+    "timestamp": 1783178166.321516,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "edge computing has significant implications for modern society",
+    "source": "showcase_import",
+    "category": "Technology",
+    "timestamp": 1783178166.3237276,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "emotional intelligence is an important concept in Humanity",
+    "source": "showcase_import",
+    "category": "Humanity",
+    "timestamp": 1783178166.3431118,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "Understanding emotional intelligence requires deep analysis",
+    "source": "showcase_import",
+    "category": "Humanity",
+    "timestamp": 1783178166.3453164,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "emotional intelligence has significant implications for modern society",
+    "source": "showcase_import",
+    "category": "Humanity",
+    "timestamp": 1783178166.3483572,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "environmental sustainability is an important concept in Ethics",
+    "source": "showcase_import",
+    "category": "Ethics",
+    "timestamp": 1783178166.3688636,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "Understanding environmental sustainability requires deep analysis",
+    "source": "showcase_import",
+    "category": "Ethics",
+    "timestamp": 1783178166.3712332,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "environmental sustainability has significant implications for modern society",
+    "source": "showcase_import",
+    "category": "Ethics",
+    "timestamp": 1783178166.3734384,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "genetic engineering is an important concept in Science",
+    "source": "showcase_import",
+    "category": "Science",
+    "timestamp": 1783178166.394641,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "Understanding genetic engineering requires deep analysis",
+    "source": "showcase_import",
+    "category": "Science",
+    "timestamp": 1783178166.3978302,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "genetic engineering has significant implications for modern society",
+    "source": "showcase_import",
+    "category": "Science",
+    "timestamp": 1783178166.4017262,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "linguistics is an important concept in Humanity",
+    "source": "showcase_import",
+    "category": "Humanity",
+    "timestamp": 1783178166.4232712,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "Understanding linguistics requires deep analysis",
+    "source": "showcase_import",
+    "category": "Humanity",
+    "timestamp": 1783178166.426052,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "linguistics has significant implications for modern society",
+    "source": "showcase_import",
+    "category": "Humanity",
+    "timestamp": 1783178166.4291449,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "modern diplomacy is an important concept in History",
+    "source": "showcase_import",
+    "category": "History",
+    "timestamp": 1783178166.452384,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "Understanding modern diplomacy requires deep analysis",
+    "source": "showcase_import",
+    "category": "History",
+    "timestamp": 1783178166.4551017,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "modern diplomacy has significant implications for modern society",
+    "source": "showcase_import",
+    "category": "History",
+    "timestamp": 1783178166.4574559,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "neuroscience is an important concept in Science",
+    "source": "showcase_import",
+    "category": "Science",
+    "timestamp": 1783178166.4767964,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "Understanding neuroscience requires deep analysis",
+    "source": "showcase_import",
+    "category": "Science",
+    "timestamp": 1783178166.4819367,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "neuroscience has significant implications for modern society",
+    "source": "showcase_import",
+    "category": "Science",
+    "timestamp": 1783178166.485957,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "philosophy of mind is an important concept in Humanity",
+    "source": "showcase_import",
+    "category": "Humanity",
+    "timestamp": 1783178166.5080469,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "Understanding philosophy of mind requires deep analysis",
+    "source": "showcase_import",
+    "category": "Humanity",
+    "timestamp": 1783178166.5109837,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "philosophy of mind has significant implications for modern society",
+    "source": "showcase_import",
+    "category": "Humanity",
+    "timestamp": 1783178166.5135307,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "psychology is an important concept in Humanity",
+    "source": "showcase_import",
+    "category": "Humanity",
+    "timestamp": 1783178166.5349643,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "Understanding psychology requires deep analysis",
+    "source": "showcase_import",
+    "category": "Humanity",
+    "timestamp": 1783178166.5374796,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "psychology has significant implications for modern society",
+    "source": "showcase_import",
+    "category": "Humanity",
+    "timestamp": 1783178166.5409641,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "quantum mechanics is an important concept in Science",
+    "source": "showcase_import",
+    "category": "Science",
+    "timestamp": 1783178166.5598247,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "Understanding quantum mechanics requires deep analysis",
+    "source": "showcase_import",
+    "category": "Science",
+    "timestamp": 1783178166.5620496,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "quantum mechanics has significant implications for modern society",
+    "source": "showcase_import",
+    "category": "Science",
+    "timestamp": 1783178166.566298,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "renaissance art is an important concept in History",
+    "source": "showcase_import",
+    "category": "History",
+    "timestamp": 1783178166.5887132,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "Understanding renaissance art requires deep analysis",
+    "source": "showcase_import",
+    "category": "History",
+    "timestamp": 1783178166.5911179,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "renaissance art has significant implications for modern society",
+    "source": "showcase_import",
+    "category": "History",
+    "timestamp": 1783178166.593341,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "renewable energy is an important concept in Science",
+    "source": "showcase_import",
+    "category": "Science",
+    "timestamp": 1783178166.6131651,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "Understanding renewable energy requires deep analysis",
+    "source": "showcase_import",
+    "category": "Science",
+    "timestamp": 1783178166.6171904,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "renewable energy has significant implications for modern society",
+    "source": "showcase_import",
+    "category": "Science",
+    "timestamp": 1783178166.6204493,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "social justice is an important concept in Ethics",
+    "source": "showcase_import",
+    "category": "Ethics",
+    "timestamp": 1783178166.6401048,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "Understanding social justice requires deep analysis",
+    "source": "showcase_import",
+    "category": "Ethics",
+    "timestamp": 1783178166.6424916,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "social justice has significant implications for modern society",
+    "source": "showcase_import",
+    "category": "Ethics",
+    "timestamp": 1783178166.6449082,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "the industrial revolution is an important concept in History",
+    "source": "showcase_import",
+    "category": "History",
+    "timestamp": 1783178166.6682546,
+    "recall_count": 1,
+    "confidence": 0.8
+  },
+  {
+    "fact": "Understanding the industrial revolution requires deep analysis",
+    "source": "showcase_import",
+    "category": "History",
+    "timestamp": 1783178166.6712074,
+    "recall_count": 1,
+    "confidence": 0.8
+  },
+  {
+    "fact": "the industrial revolution has significant implications for modern society",
+    "source": "showcase_import",
+    "category": "History",
+    "timestamp": 1783178166.6737928,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "the space race is an important concept in History",
+    "source": "showcase_import",
+    "category": "History",
+    "timestamp": 1783178166.695592,
+    "recall_count": 1,
+    "confidence": 0.8
+  },
+  {
+    "fact": "Understanding the space race requires deep analysis",
+    "source": "showcase_import",
+    "category": "History",
+    "timestamp": 1783178166.7002685,
+    "recall_count": 0,
+    "confidence": 0.8
+  },
+  {
+    "fact": "the space race has significant implications for modern society",
+    "source": "showcase_import",
+    "category": "History",
+    "timestamp": 1783178166.7031758,
+    "recall_count": 0,
+    "confidence": 0.8
+  }
+]

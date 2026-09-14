@@ -1,0 +1,4493 @@
+{
+  "entities": {
+    "alex": {
+      "name": "Alex",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779181986.9992356,
+      "last_referenced": 1783178233.1037674,
+      "reference_count": 16
+    },
+    "i'll": {
+      "name": "I'll",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779181987.0107558,
+      "last_referenced": 1779369182.0246854,
+      "reference_count": 3
+    },
+    "nature": {
+      "name": "nature",
+      "type": "topic",
+      "properties": {},
+      "first_seen": 1779181987.019971,
+      "last_referenced": 1779211518.6580677,
+      "reference_count": 7
+    },
+    "that the sun is a star": {
+      "name": "that the sun is a star",
+      "type": "concept",
+      "properties": {},
+      "first_seen": 1779181987.0273392,
+      "last_referenced": 1779211561.014354,
+      "reference_count": 4
+    },
+    "neuronest": {
+      "name": "NeuroNest",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779181987.034229,
+      "last_referenced": 1779369182.0810957,
+      "reference_count": 16
+    },
+    "ai": {
+      "name": "AI",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779181987.0358667,
+      "last_referenced": 1783178233.4261696,
+      "reference_count": 32
+    },
+    "i'm": {
+      "name": "I'm",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779181987.0369852,
+      "last_referenced": 1779369182.3974812,
+      "reference_count": 24
+    },
+    "stage": {
+      "name": "Stage",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779181987.0381489,
+      "last_referenced": 1779369182.1883585,
+      "reference_count": 7
+    },
+    "foundation": {
+      "name": "Foundation",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779181987.039552,
+      "last_referenced": 1779369182.2307427,
+      "reference_count": 7
+    },
+    "intelligence": {
+      "name": "Intelligence",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779181987.040929,
+      "last_referenced": 1779369182.2713423,
+      "reference_count": 16
+    },
+    "i've": {
+      "name": "I've",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779181987.0424016,
+      "last_referenced": 1779369182.3146727,
+      "reference_count": 9
+    },
+    "xp": {
+      "name": "XP",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779181987.0442293,
+      "last_referenced": 1779369182.356306,
+      "reference_count": 7
+    },
+    "that's": {
+      "name": "That's",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779182778.0541813,
+      "last_referenced": 1779210056.4110107,
+      "reference_count": 2
+    },
+    "let's": {
+      "name": "Let's",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779210023.1667967,
+      "last_referenced": 1779210023.1667976,
+      "reference_count": 1
+    },
+    "what's": {
+      "name": "What's",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779210110.4342127,
+      "last_referenced": 1779210110.4342132,
+      "reference_count": 1
+    },
+    "math_block_widget_always_prefetch_v2": {
+      "name": "math_block_widget_always_prefetch_v2",
+      "type": "concept",
+      "properties": {},
+      "first_seen": 1779211028.5612657,
+      "last_referenced": 1779211512.6684897,
+      "reference_count": 6
+    },
+    "content": {
+      "name": "content",
+      "type": "concept",
+      "properties": {},
+      "first_seen": 1779211028.564744,
+      "last_referenced": 1779211512.6858354,
+      "reference_count": 6
+    },
+    "h_2o": {
+      "name": "H_2O",
+      "type": "concept",
+      "properties": {},
+      "first_seen": 1779211028.5694063,
+      "last_referenced": 1779211512.6511524,
+      "reference_count": 3
+    },
+    "0,1": {
+      "name": "0,1",
+      "type": "concept",
+      "properties": {},
+      "first_seen": 1779211028.581951,
+      "last_referenced": 1779211512.7037923,
+      "reference_count": 3
+    },
+    "phase": {
+      "name": "Phase",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.5904183,
+      "last_referenced": 1779211512.733904,
+      "reference_count": 3
+    },
+    "one": {
+      "name": "One",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.5939164,
+      "last_referenced": 1779211512.7469125,
+      "reference_count": 3
+    },
+    "core": {
+      "name": "Core",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.5970907,
+      "last_referenced": 1779211528.542339,
+      "reference_count": 7
+    },
+    "world": {
+      "name": "World",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.6027787,
+      "last_referenced": 1779211512.779776,
+      "reference_count": 3
+    },
+    "knowledge": {
+      "name": "Knowledge",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.6075938,
+      "last_referenced": 1779211528.7442493,
+      "reference_count": 97
+    },
+    "dataset": {
+      "name": "Dataset",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.6116762,
+      "last_referenced": 1779211512.820762,
+      "reference_count": 3
+    },
+    "universal": {
+      "name": "UNIVERSAL",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.6206212,
+      "last_referenced": 1779211512.858369,
+      "reference_count": 3
+    },
+    "concepts": {
+      "name": "CONCEPTS",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.6252217,
+      "last_referenced": 1779211512.874283,
+      "reference_count": 3
+    },
+    "space": {
+      "name": "Space",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.6298323,
+      "last_referenced": 1779211520.326012,
+      "reference_count": 12
+    },
+    "earth": {
+      "name": "Earth",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.6385844,
+      "last_referenced": 1779211523.3150158,
+      "reference_count": 28
+    },
+    "solar": {
+      "name": "Solar",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.6429248,
+      "last_referenced": 1779211525.2237108,
+      "reference_count": 11
+    },
+    "system": {
+      "name": "System",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.6468198,
+      "last_referenced": 1779211528.2754161,
+      "reference_count": 10
+    },
+    "sun": {
+      "name": "Sun",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.6517923,
+      "last_referenced": 1779211515.1931386,
+      "reference_count": 12
+    },
+    "gravity": {
+      "name": "Gravity",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.6563425,
+      "last_referenced": 1779211514.9009564,
+      "reference_count": 9
+    },
+    "time": {
+      "name": "Time",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.6602962,
+      "last_referenced": 1779211514.791059,
+      "reference_count": 12
+    },
+    "past": {
+      "name": "Past",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.6749818,
+      "last_referenced": 1779211513.024817,
+      "reference_count": 3
+    },
+    "present": {
+      "name": "Present",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.6791775,
+      "last_referenced": 1779211513.0420299,
+      "reference_count": 3
+    },
+    "future": {
+      "name": "Future",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.6837313,
+      "last_referenced": 1779211520.097186,
+      "reference_count": 6
+    },
+    "matter": {
+      "name": "Matter",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.6884015,
+      "last_referenced": 1779211515.460235,
+      "reference_count": 9
+    },
+    "solids": {
+      "name": "Solids",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.6971486,
+      "last_referenced": 1779211513.1004987,
+      "reference_count": 3
+    },
+    "liquids": {
+      "name": "Liquids",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.7019694,
+      "last_referenced": 1779211513.1199079,
+      "reference_count": 3
+    },
+    "gases": {
+      "name": "Gases",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.707075,
+      "last_referenced": 1779211513.1419458,
+      "reference_count": 3
+    },
+    "atoms": {
+      "name": "Atoms",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.7116845,
+      "last_referenced": 1779211515.2937462,
+      "reference_count": 9
+    },
+    "planet": {
+      "name": "Planet",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.7266283,
+      "last_referenced": 1779211513.2139828,
+      "reference_count": 3
+    },
+    "continents": {
+      "name": "Continents",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.7699182,
+      "last_referenced": 1779211513.40159,
+      "reference_count": 3
+    },
+    "asia": {
+      "name": "Asia",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.7752523,
+      "last_referenced": 1779211513.4287088,
+      "reference_count": 3
+    },
+    "africa": {
+      "name": "Africa",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.7799404,
+      "last_referenced": 1779211513.4453416,
+      "reference_count": 3
+    },
+    "north": {
+      "name": "North",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.7850199,
+      "last_referenced": 1779211513.461346,
+      "reference_count": 3
+    },
+    "america": {
+      "name": "America",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.7900734,
+      "last_referenced": 1779211513.5129626,
+      "reference_count": 6
+    },
+    "south": {
+      "name": "South",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.7954822,
+      "last_referenced": 1779211513.4994013,
+      "reference_count": 3
+    },
+    "europe": {
+      "name": "Europe",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.8062608,
+      "last_referenced": 1779211513.526465,
+      "reference_count": 3
+    },
+    "australia": {
+      "name": "Australia",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.8118012,
+      "last_referenced": 1779211513.5418448,
+      "reference_count": 3
+    },
+    "antarctica": {
+      "name": "Antarctica",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.8181908,
+      "last_referenced": 1779211513.5587964,
+      "reference_count": 3
+    },
+    "oceans": {
+      "name": "Oceans",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.8235633,
+      "last_referenced": 1779211513.5737672,
+      "reference_count": 3
+    },
+    "pacific": {
+      "name": "Pacific",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.8288958,
+      "last_referenced": 1779211513.592713,
+      "reference_count": 3
+    },
+    "ocean": {
+      "name": "Ocean",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.8343525,
+      "last_referenced": 1779211513.7059748,
+      "reference_count": 15
+    },
+    "atlantic": {
+      "name": "Atlantic",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.839508,
+      "last_referenced": 1779211513.621444,
+      "reference_count": 3
+    },
+    "indian": {
+      "name": "Indian",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.8497076,
+      "last_referenced": 1779211513.6483538,
+      "reference_count": 3
+    },
+    "arctic": {
+      "name": "Arctic",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.8607082,
+      "last_referenced": 1779211513.6714025,
+      "reference_count": 3
+    },
+    "southern": {
+      "name": "Southern",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.8712764,
+      "last_referenced": 1779211513.6919787,
+      "reference_count": 3
+    },
+    "human": {
+      "name": "HUMAN",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.88227,
+      "last_referenced": 1779211527.7766762,
+      "reference_count": 13
+    },
+    "body": {
+      "name": "Body",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.8983178,
+      "last_referenced": 1779211513.7521255,
+      "reference_count": 3
+    },
+    "humans": {
+      "name": "Humans",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.9039648,
+      "last_referenced": 1779211523.7251196,
+      "reference_count": 16
+    },
+    "lungs": {
+      "name": "Lungs",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.9096797,
+      "last_referenced": 1779211513.7778566,
+      "reference_count": 3
+    },
+    "bones": {
+      "name": "Bones",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.914954,
+      "last_referenced": 1779211513.7868032,
+      "reference_count": 3
+    },
+    "muscles": {
+      "name": "Muscles",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.9207585,
+      "last_referenced": 1779211513.7957046,
+      "reference_count": 3
+    },
+    "needs": {
+      "name": "Needs",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.9290807,
+      "last_referenced": 1779211513.818057,
+      "reference_count": 3
+    },
+    "food": {
+      "name": "Food",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.9332547,
+      "last_referenced": 1779211515.689416,
+      "reference_count": 6
+    },
+    "water": {
+      "name": "Water",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.9373949,
+      "last_referenced": 1779211519.79259,
+      "reference_count": 18
+    },
+    "shelter": {
+      "name": "Shelter",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.9412115,
+      "last_referenced": 1779211513.8578758,
+      "reference_count": 3
+    },
+    "sleep": {
+      "name": "Sleep",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.9453688,
+      "last_referenced": 1779211524.59303,
+      "reference_count": 5
+    },
+    "safety": {
+      "name": "Safety",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.9497538,
+      "last_referenced": 1779211517.0662117,
+      "reference_count": 6
+    },
+    "social": {
+      "name": "Social",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.9538174,
+      "last_referenced": 1779211518.2111385,
+      "reference_count": 9
+    },
+    "basic": {
+      "name": "Basic",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.957714,
+      "last_referenced": 1779211519.5747912,
+      "reference_count": 6
+    },
+    "emotions": {
+      "name": "Emotions",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.966002,
+      "last_referenced": 1779211528.6448107,
+      "reference_count": 4
+    },
+    "happiness": {
+      "name": "Happiness",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.9701693,
+      "last_referenced": 1779211513.9514956,
+      "reference_count": 3
+    },
+    "sadness": {
+      "name": "Sadness",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.974315,
+      "last_referenced": 1779211513.9659486,
+      "reference_count": 3
+    },
+    "fear": {
+      "name": "Fear",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.9783373,
+      "last_referenced": 1779211513.9809754,
+      "reference_count": 3
+    },
+    "anger": {
+      "name": "Anger",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.983129,
+      "last_referenced": 1779211513.9973679,
+      "reference_count": 3
+    },
+    "curiosity": {
+      "name": "Curiosity",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.987743,
+      "last_referenced": 1779211519.5342052,
+      "reference_count": 9
+    },
+    "excitement": {
+      "name": "Excitement",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.9925635,
+      "last_referenced": 1779211514.0295424,
+      "reference_count": 3
+    },
+    "love": {
+      "name": "Love",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211028.9971917,
+      "last_referenced": 1779211514.046002,
+      "reference_count": 3
+    },
+    "surprise": {
+      "name": "Surprise",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.0014882,
+      "last_referenced": 1779211514.0614822,
+      "reference_count": 3
+    },
+    "language": {
+      "name": "LANGUAGE",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.0057585,
+      "last_referenced": 1779211526.9531844,
+      "reference_count": 22
+    },
+    "purpose": {
+      "name": "Purpose",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.015111,
+      "last_referenced": 1779211514.1140695,
+      "reference_count": 3
+    },
+    "components": {
+      "name": "Components",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.033571,
+      "last_referenced": 1779211514.1700473,
+      "reference_count": 3
+    },
+    "letters": {
+      "name": "Letters",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.0382183,
+      "last_referenced": 1779211514.1813893,
+      "reference_count": 3
+    },
+    "words": {
+      "name": "Words",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.0432267,
+      "last_referenced": 1779211514.1941712,
+      "reference_count": 3
+    },
+    "sentences": {
+      "name": "Sentences",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.048091,
+      "last_referenced": 1779211514.2069614,
+      "reference_count": 3
+    },
+    "common": {
+      "name": "Common",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.0526597,
+      "last_referenced": 1779211524.263543,
+      "reference_count": 8
+    },
+    "sentence": {
+      "name": "Sentence",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.0572402,
+      "last_referenced": 1779211514.230726,
+      "reference_count": 3
+    },
+    "types": {
+      "name": "Types",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.0623214,
+      "last_referenced": 1779211520.7396765,
+      "reference_count": 7
+    },
+    "statement": {
+      "name": "Statement",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.0667088,
+      "last_referenced": 1779211514.2580638,
+      "reference_count": 3
+    },
+    "question": {
+      "name": "Question",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.0712323,
+      "last_referenced": 1779211514.2722626,
+      "reference_count": 3
+    },
+    "command": {
+      "name": "Command",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.0764675,
+      "last_referenced": 1779211514.283849,
+      "reference_count": 3
+    },
+    "exclamation": {
+      "name": "Exclamation",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.0812094,
+      "last_referenced": 1779211514.2947857,
+      "reference_count": 3
+    },
+    "major": {
+      "name": "Major",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.0858784,
+      "last_referenced": 1779211514.3037672,
+      "reference_count": 3
+    },
+    "languages": {
+      "name": "Languages",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.0915785,
+      "last_referenced": 1779211516.1394439,
+      "reference_count": 6
+    },
+    "english": {
+      "name": "English",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.0964289,
+      "last_referenced": 1779211514.331904,
+      "reference_count": 3
+    },
+    "mandarin": {
+      "name": "Mandarin",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.1011615,
+      "last_referenced": 1779211514.3450654,
+      "reference_count": 3
+    },
+    "chinese": {
+      "name": "Chinese",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.106091,
+      "last_referenced": 1779211527.973309,
+      "reference_count": 4
+    },
+    "hindi": {
+      "name": "Hindi",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.1111968,
+      "last_referenced": 1779211514.3684993,
+      "reference_count": 3
+    },
+    "spanish": {
+      "name": "Spanish",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.1160228,
+      "last_referenced": 1779211514.3812644,
+      "reference_count": 3
+    },
+    "arabic": {
+      "name": "Arabic",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.1206832,
+      "last_referenced": 1779211514.3950107,
+      "reference_count": 3
+    },
+    "french": {
+      "name": "French",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.128108,
+      "last_referenced": 1779211514.4062362,
+      "reference_count": 3
+    },
+    "tamil": {
+      "name": "Tamil",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.133666,
+      "last_referenced": 1779211514.4233065,
+      "reference_count": 3
+    },
+    "mathematics": {
+      "name": "MATHEMATICS",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.1395402,
+      "last_referenced": 1779211527.5750353,
+      "reference_count": 5
+    },
+    "numbers": {
+      "name": "Numbers",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.1508455,
+      "last_referenced": 1779211520.786172,
+      "reference_count": 4
+    },
+    "natural": {
+      "name": "Natural",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.1560407,
+      "last_referenced": 1779211526.889544,
+      "reference_count": 4
+    },
+    "integers": {
+      "name": "Integers",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.1610303,
+      "last_referenced": 1779211514.5363243,
+      "reference_count": 3
+    },
+    "fractions": {
+      "name": "Fractions",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.1661065,
+      "last_referenced": 1779211514.5538862,
+      "reference_count": 3
+    },
+    "decimals": {
+      "name": "Decimals",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.1712637,
+      "last_referenced": 1779211514.5702431,
+      "reference_count": 3
+    },
+    "arithmetic": {
+      "name": "Arithmetic",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.1768234,
+      "last_referenced": 1779211514.5835006,
+      "reference_count": 3
+    },
+    "addition": {
+      "name": "Addition",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.182225,
+      "last_referenced": 1779211514.6013482,
+      "reference_count": 3
+    },
+    "subtraction": {
+      "name": "Subtraction",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.1880348,
+      "last_referenced": 1779211514.6115317,
+      "reference_count": 3
+    },
+    "multiplication": {
+      "name": "Multiplication",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.193217,
+      "last_referenced": 1779211514.6239915,
+      "reference_count": 3
+    },
+    "division": {
+      "name": "Division",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.199031,
+      "last_referenced": 1779211514.6362162,
+      "reference_count": 3
+    },
+    "important": {
+      "name": "Important",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.20428,
+      "last_referenced": 1779211517.336128,
+      "reference_count": 6
+    },
+    "mathematical": {
+      "name": "Mathematical",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.20956,
+      "last_referenced": 1779211514.6618361,
+      "reference_count": 3
+    },
+    "symbols": {
+      "name": "Symbols",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.215684,
+      "last_referenced": 1779211514.675508,
+      "reference_count": 3
+    },
+    "geometry": {
+      "name": "Geometry",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.2211747,
+      "last_referenced": 1779211514.6869996,
+      "reference_count": 3
+    },
+    "triangle": {
+      "name": "Triangle",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.2266936,
+      "last_referenced": 1779211514.6979048,
+      "reference_count": 3
+    },
+    "square": {
+      "name": "Square",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.2323062,
+      "last_referenced": 1779211514.7089093,
+      "reference_count": 3
+    },
+    "circle": {
+      "name": "Circle",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.2377813,
+      "last_referenced": 1779211514.7206295,
+      "reference_count": 3
+    },
+    "rectangle": {
+      "name": "Rectangle",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.2438302,
+      "last_referenced": 1779211514.733959,
+      "reference_count": 3
+    },
+    "measurement": {
+      "name": "Measurement",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.2514594,
+      "last_referenced": 1779211514.7524724,
+      "reference_count": 3
+    },
+    "units": {
+      "name": "Units",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.2581325,
+      "last_referenced": 1779211514.7651439,
+      "reference_count": 3
+    },
+    "length": {
+      "name": "Length",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.2643192,
+      "last_referenced": 1779211514.7736256,
+      "reference_count": 3
+    },
+    "mass": {
+      "name": "Mass",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.27013,
+      "last_referenced": 1779211514.7823124,
+      "reference_count": 3
+    },
+    "physics": {
+      "name": "PHYSICS",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.283522,
+      "last_referenced": 1779211527.5158446,
+      "reference_count": 4
+    },
+    "motion": {
+      "name": "Motion",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.2959633,
+      "last_referenced": 1779211514.8502183,
+      "reference_count": 3
+    },
+    "objects": {
+      "name": "Objects",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.3019078,
+      "last_referenced": 1779211514.8669055,
+      "reference_count": 3
+    },
+    "energy": {
+      "name": "Energy",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.3200765,
+      "last_referenced": 1779211525.3937953,
+      "reference_count": 16
+    },
+    "heat": {
+      "name": "Heat",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.346067,
+      "last_referenced": 1779211515.005363,
+      "reference_count": 3
+    },
+    "light": {
+      "name": "Light",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.3517182,
+      "last_referenced": 1779211515.1691024,
+      "reference_count": 9
+    },
+    "electrical": {
+      "name": "Electrical",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.358206,
+      "last_referenced": 1779211518.9374583,
+      "reference_count": 6
+    },
+    "chemical": {
+      "name": "Chemical",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.3639615,
+      "last_referenced": 1779211515.5620136,
+      "reference_count": 9
+    },
+    "kinetic": {
+      "name": "Kinetic",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.3698232,
+      "last_referenced": 1779211515.0736725,
+      "reference_count": 3
+    },
+    "potential": {
+      "name": "Potential",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.3761764,
+      "last_referenced": 1779211515.0906086,
+      "reference_count": 3
+    },
+    "electricity": {
+      "name": "Electricity",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.382037,
+      "last_referenced": 1779211517.4131234,
+      "reference_count": 9
+    },
+    "earth's": {
+      "name": "Earth's",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.415204,
+      "last_referenced": 1779211523.5522804,
+      "reference_count": 4
+    },
+    "sound": {
+      "name": "Sound",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.4221513,
+      "last_referenced": 1779211515.2432842,
+      "reference_count": 6
+    },
+    "chemistry": {
+      "name": "CHEMISTRY",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.4352634,
+      "last_referenced": 1779211515.257176,
+      "reference_count": 3
+    },
+    "elements": {
+      "name": "Elements",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.4597745,
+      "last_referenced": 1779211515.3042114,
+      "reference_count": 3
+    },
+    "examples": {
+      "name": "Examples",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.466181,
+      "last_referenced": 1779211527.878156,
+      "reference_count": 29
+    },
+    "hydrogen": {
+      "name": "Hydrogen",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.4722607,
+      "last_referenced": 1779211515.325357,
+      "reference_count": 3
+    },
+    "oxygen": {
+      "name": "Oxygen",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.4785354,
+      "last_referenced": 1779211515.33546,
+      "reference_count": 3
+    },
+    "carbon": {
+      "name": "Carbon",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.4873364,
+      "last_referenced": 1779211515.345503,
+      "reference_count": 3
+    },
+    "iron": {
+      "name": "Iron",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.4935753,
+      "last_referenced": 1779211515.3545983,
+      "reference_count": 3
+    },
+    "gold": {
+      "name": "Gold",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.5004177,
+      "last_referenced": 1779211515.3640459,
+      "reference_count": 3
+    },
+    "molecules": {
+      "name": "Molecules",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.5068934,
+      "last_referenced": 1779211515.384047,
+      "reference_count": 6
+    },
+    "states": {
+      "name": "States",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.54023,
+      "last_referenced": 1779211515.432407,
+      "reference_count": 3
+    },
+    "solid": {
+      "name": "Solid",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.5535052,
+      "last_referenced": 1779211515.4866,
+      "reference_count": 3
+    },
+    "liquid": {
+      "name": "Liquid",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.56062,
+      "last_referenced": 1779211515.5047271,
+      "reference_count": 3
+    },
+    "gas": {
+      "name": "Gas",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.569699,
+      "last_referenced": 1779211515.52233,
+      "reference_count": 3
+    },
+    "reactions": {
+      "name": "Reactions",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.5865054,
+      "last_referenced": 1779211515.5509493,
+      "reference_count": 3
+    },
+    "biology": {
+      "name": "BIOLOGY",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.604292,
+      "last_referenced": 1779211515.5739472,
+      "reference_count": 3
+    },
+    "life": {
+      "name": "Life",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.622266,
+      "last_referenced": 1779211515.5931218,
+      "reference_count": 3
+    },
+    "living": {
+      "name": "Living",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.6316092,
+      "last_referenced": 1779211515.679817,
+      "reference_count": 6
+    },
+    "cells": {
+      "name": "Cells",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.6407049,
+      "last_referenced": 1779211515.6211662,
+      "reference_count": 6
+    },
+    "plants": {
+      "name": "Plants",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.6557205,
+      "last_referenced": 1779211519.8229713,
+      "reference_count": 12
+    },
+    "animals": {
+      "name": "Animals",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.6701026,
+      "last_referenced": 1779211515.6626525,
+      "reference_count": 6
+    },
+    "ecosystems": {
+      "name": "Ecosystems",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.6857681,
+      "last_referenced": 1779211527.4617572,
+      "reference_count": 4
+    },
+    "chain": {
+      "name": "Chain",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.7113764,
+      "last_referenced": 1779211515.7001812,
+      "reference_count": 3
+    },
+    "herbivores": {
+      "name": "Herbivores",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.7309449,
+      "last_referenced": 1779211515.7184405,
+      "reference_count": 3
+    },
+    "carnivores": {
+      "name": "Carnivores",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.7382202,
+      "last_referenced": 1779211515.7274697,
+      "reference_count": 3
+    },
+    "computer": {
+      "name": "COMPUTER",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.7450387,
+      "last_referenced": 1779211524.3440852,
+      "reference_count": 7
+    },
+    "science": {
+      "name": "SCIENCE",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.7515893,
+      "last_referenced": 1779211527.2560709,
+      "reference_count": 7
+    },
+    "computers": {
+      "name": "Computers",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.7655938,
+      "last_referenced": 1779211521.0974214,
+      "reference_count": 10
+    },
+    "hardware": {
+      "name": "Hardware",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.7721627,
+      "last_referenced": 1779211515.7741306,
+      "reference_count": 3
+    },
+    "physical": {
+      "name": "Physical",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.7796788,
+      "last_referenced": 1779211515.7825692,
+      "reference_count": 3
+    },
+    "cpu": {
+      "name": "CPU",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.7944589,
+      "last_referenced": 1779211521.1977613,
+      "reference_count": 5
+    },
+    "ram": {
+      "name": "RAM",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.802245,
+      "last_referenced": 1779211521.1406765,
+      "reference_count": 4
+    },
+    "storage": {
+      "name": "Storage",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.8106742,
+      "last_referenced": 1779211521.162333,
+      "reference_count": 4
+    },
+    "keyboard": {
+      "name": "Keyboard",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.8179076,
+      "last_referenced": 1779211515.8283296,
+      "reference_count": 3
+    },
+    "monitor": {
+      "name": "Monitor",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.825509,
+      "last_referenced": 1779211515.8373916,
+      "reference_count": 3
+    },
+    "software": {
+      "name": "Software",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.8324409,
+      "last_referenced": 1779211521.3704545,
+      "reference_count": 7
+    },
+    "programs": {
+      "name": "Programs",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.840031,
+      "last_referenced": 1779211515.8560872,
+      "reference_count": 3
+    },
+    "operating": {
+      "name": "Operating",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.8471036,
+      "last_referenced": 1779211515.8657165,
+      "reference_count": 3
+    },
+    "systems": {
+      "name": "Systems",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.8546078,
+      "last_referenced": 1779211528.4076178,
+      "reference_count": 10
+    },
+    "windows": {
+      "name": "Windows",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.8693938,
+      "last_referenced": 1779211515.8946855,
+      "reference_count": 3
+    },
+    "linux": {
+      "name": "Linux",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.8767803,
+      "last_referenced": 1779211515.908296,
+      "reference_count": 3
+    },
+    "android": {
+      "name": "Android",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.8859217,
+      "last_referenced": 1779211515.9187493,
+      "reference_count": 3
+    },
+    "binary": {
+      "name": "Binary",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.897241,
+      "last_referenced": 1779211515.926516,
+      "reference_count": 3
+    },
+    "internet": {
+      "name": "Internet",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.9242623,
+      "last_referenced": 1779211517.4606097,
+      "reference_count": 9
+    },
+    "networks": {
+      "name": "Networks",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.9320009,
+      "last_referenced": 1779211516.4988937,
+      "reference_count": 9
+    },
+    "databases": {
+      "name": "Databases",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.9472713,
+      "last_referenced": 1779211515.992768,
+      "reference_count": 6
+    },
+    "programming": {
+      "name": "PROGRAMMING",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.961893,
+      "last_referenced": 1779211516.0308483,
+      "reference_count": 9
+    },
+    "variables": {
+      "name": "Variables",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211029.9939878,
+      "last_referenced": 1779211516.0478022,
+      "reference_count": 6
+    },
+    "example": {
+      "name": "Example",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.0094736,
+      "last_referenced": 1779211517.8053071,
+      "reference_count": 9
+    },
+    "functions": {
+      "name": "Functions",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.0167089,
+      "last_referenced": 1779211516.0760725,
+      "reference_count": 6
+    },
+    "conditions": {
+      "name": "Conditions",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.032467,
+      "last_referenced": 1779211516.0940022,
+      "reference_count": 6
+    },
+    "loops": {
+      "name": "Loops",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.056462,
+      "last_referenced": 1779211528.45518,
+      "reference_count": 7
+    },
+    "python": {
+      "name": "Python",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.087953,
+      "last_referenced": 1779211521.6702197,
+      "reference_count": 10
+    },
+    "javascript": {
+      "name": "JavaScript",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.0953767,
+      "last_referenced": 1779211521.5442271,
+      "reference_count": 4
+    },
+    "c++": {
+      "name": "C++",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.104671,
+      "last_referenced": 1779211516.1720734,
+      "reference_count": 3
+    },
+    "java": {
+      "name": "Java",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.112484,
+      "last_referenced": 1779211521.7019317,
+      "reference_count": 4
+    },
+    "rust": {
+      "name": "Rust",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.1228266,
+      "last_referenced": 1779211516.19528,
+      "reference_count": 3
+    },
+    "apis": {
+      "name": "APIs",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.1582482,
+      "last_referenced": 1779211516.2781973,
+      "reference_count": 6
+    },
+    "artificial": {
+      "name": "ARTIFICIAL",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.1755428,
+      "last_referenced": 1779211516.3521087,
+      "reference_count": 6
+    },
+    "machine": {
+      "name": "Machine",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.2224374,
+      "last_referenced": 1779211526.417863,
+      "reference_count": 4
+    },
+    "learning": {
+      "name": "Learning",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.2309494,
+      "last_referenced": 1779211526.7889612,
+      "reference_count": 15
+    },
+    "machines": {
+      "name": "Machines",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.239137,
+      "last_referenced": 1779211521.3346865,
+      "reference_count": 7
+    },
+    "neural": {
+      "name": "Neural",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.2470677,
+      "last_referenced": 1779211516.5200722,
+      "reference_count": 6
+    },
+    "training": {
+      "name": "Training",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.2722316,
+      "last_referenced": 1779211526.5400739,
+      "reference_count": 5
+    },
+    "data": {
+      "name": "Data",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.2798722,
+      "last_referenced": 1779211520.8809628,
+      "reference_count": 7
+    },
+    "large": {
+      "name": "Large",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.2957613,
+      "last_referenced": 1779211516.5849047,
+      "reference_count": 3
+    },
+    "models": {
+      "name": "Models",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.3117318,
+      "last_referenced": 1779211516.618363,
+      "reference_count": 3
+    },
+    "robotics": {
+      "name": "Robotics",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.327556,
+      "last_referenced": 1779211522.7854025,
+      "reference_count": 7
+    },
+    "websites": {
+      "name": "Websites",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.3723466,
+      "last_referenced": 1779211516.7379344,
+      "reference_count": 6
+    },
+    "search": {
+      "name": "Search",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.3946683,
+      "last_referenced": 1779211516.7882438,
+      "reference_count": 6
+    },
+    "engines": {
+      "name": "Engines",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.4029078,
+      "last_referenced": 1779211526.2484956,
+      "reference_count": 4
+    },
+    "google": {
+      "name": "Google",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.4350665,
+      "last_referenced": 1779211516.8223894,
+      "reference_count": 3
+    },
+    "bing": {
+      "name": "Bing",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.445471,
+      "last_referenced": 1779211516.8411155,
+      "reference_count": 3
+    },
+    "duckduckgo": {
+      "name": "DuckDuckGo",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.4593506,
+      "last_referenced": 1779211516.8541207,
+      "reference_count": 3
+    },
+    "media": {
+      "name": "Media",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.5006056,
+      "last_referenced": 1779211525.4323351,
+      "reference_count": 4
+    },
+    "platforms": {
+      "name": "Platforms",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.5172837,
+      "last_referenced": 1779211516.901426,
+      "reference_count": 3
+    },
+    "youtube": {
+      "name": "YouTube",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.5433316,
+      "last_referenced": 1779211516.944514,
+      "reference_count": 3
+    },
+    "instagram": {
+      "name": "Instagram",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.5560389,
+      "last_referenced": 1779211516.964186,
+      "reference_count": 3
+    },
+    "reddit": {
+      "name": "Reddit",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.56873,
+      "last_referenced": 1779211516.9839602,
+      "reference_count": 3
+    },
+    "cybersecurity": {
+      "name": "Cybersecurity",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.5797997,
+      "last_referenced": 1783178166.2553055,
+      "reference_count": 8
+    },
+    "password": {
+      "name": "Password",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.603364,
+      "last_referenced": 1779211517.0428426,
+      "reference_count": 3
+    },
+    "strong": {
+      "name": "Strong",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.6288905,
+      "last_referenced": 1779211517.087406,
+      "reference_count": 3
+    },
+    "history": {
+      "name": "HISTORY",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.6385367,
+      "last_referenced": 1779211524.3184168,
+      "reference_count": 4
+    },
+    "ancient": {
+      "name": "Ancient",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.6616328,
+      "last_referenced": 1779211517.1388903,
+      "reference_count": 3
+    },
+    "civilizations": {
+      "name": "Civilizations",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.6742394,
+      "last_referenced": 1779211517.1627402,
+      "reference_count": 3
+    },
+    "egypt": {
+      "name": "Egypt",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.6853132,
+      "last_referenced": 1779211517.1823525,
+      "reference_count": 3
+    },
+    "mesopotamia": {
+      "name": "Mesopotamia",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.6949646,
+      "last_referenced": 1779211517.205825,
+      "reference_count": 3
+    },
+    "indus": {
+      "name": "Indus",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.7039812,
+      "last_referenced": 1779211517.225917,
+      "reference_count": 3
+    },
+    "valley": {
+      "name": "Valley",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.7154863,
+      "last_referenced": 1779211517.2479992,
+      "reference_count": 3
+    },
+    "china": {
+      "name": "China",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.724893,
+      "last_referenced": 1779211517.271952,
+      "reference_count": 3
+    },
+    "rome": {
+      "name": "Rome",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.7336192,
+      "last_referenced": 1779211517.293054,
+      "reference_count": 3
+    },
+    "greece": {
+      "name": "Greece",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.7427113,
+      "last_referenced": 1779211517.3160493,
+      "reference_count": 3
+    },
+    "inventions": {
+      "name": "Inventions",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.7611132,
+      "last_referenced": 1779211517.352597,
+      "reference_count": 3
+    },
+    "wheel": {
+      "name": "Wheel",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.7702286,
+      "last_referenced": 1779211517.3734677,
+      "reference_count": 3
+    },
+    "printing": {
+      "name": "Printing",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.7789314,
+      "last_referenced": 1779211517.393568,
+      "reference_count": 3
+    },
+    "telephone": {
+      "name": "Telephone",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.797919,
+      "last_referenced": 1779211517.4387276,
+      "reference_count": 3
+    },
+    "industrial": {
+      "name": "Industrial",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.817762,
+      "last_referenced": 1779211517.4870574,
+      "reference_count": 3
+    },
+    "revolution": {
+      "name": "Revolution",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.8269083,
+      "last_referenced": 1779211517.5088322,
+      "reference_count": 3
+    },
+    "exploration": {
+      "name": "Exploration",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.8558881,
+      "last_referenced": 1779211517.5543516,
+      "reference_count": 3
+    },
+    "moon": {
+      "name": "Moon",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.87541,
+      "last_referenced": 1779211517.5803363,
+      "reference_count": 3
+    },
+    "geography": {
+      "name": "GEOGRAPHY",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.8848362,
+      "last_referenced": 1779211517.5914247,
+      "reference_count": 3
+    },
+    "countries": {
+      "name": "Countries",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.9039495,
+      "last_referenced": 1779211517.6232197,
+      "reference_count": 6
+    },
+    "capitals": {
+      "name": "Capitals",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.9504316,
+      "last_referenced": 1779211517.6331775,
+      "reference_count": 3
+    },
+    "india": {
+      "name": "India",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.9720187,
+      "last_referenced": 1779211517.657877,
+      "reference_count": 3
+    },
+    "new": {
+      "name": "New",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.9818778,
+      "last_referenced": 1779211527.9914615,
+      "reference_count": 4
+    },
+    "delhi": {
+      "name": "Delhi",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211030.9922297,
+      "last_referenced": 1779211517.6773272,
+      "reference_count": 3
+    },
+    "japan": {
+      "name": "Japan",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.0025063,
+      "last_referenced": 1779211517.6876156,
+      "reference_count": 3
+    },
+    "tokyo": {
+      "name": "Tokyo",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.0123878,
+      "last_referenced": 1779211517.6963274,
+      "reference_count": 3
+    },
+    "france": {
+      "name": "France",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.0233057,
+      "last_referenced": 1779211517.7074213,
+      "reference_count": 3
+    },
+    "paris": {
+      "name": "Paris",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.0349252,
+      "last_referenced": 1779211517.7171397,
+      "reference_count": 3
+    },
+    "usa": {
+      "name": "USA",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.0445538,
+      "last_referenced": 1779211517.725904,
+      "reference_count": 3
+    },
+    "washington": {
+      "name": "Washington",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.0561619,
+      "last_referenced": 1779211517.7374513,
+      "reference_count": 3
+    },
+    "d.c": {
+      "name": "D.C",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.066474,
+      "last_referenced": 1779211517.7480333,
+      "reference_count": 3
+    },
+    "climate": {
+      "name": "Climate",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.0767174,
+      "last_referenced": 1779211518.6852345,
+      "reference_count": 6
+    },
+    "different": {
+      "name": "Different",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.0909965,
+      "last_referenced": 1779211528.0374715,
+      "reference_count": 4
+    },
+    "mountains": {
+      "name": "Mountains",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.1056557,
+      "last_referenced": 1779211517.781808,
+      "reference_count": 3
+    },
+    "himalayas": {
+      "name": "Himalayas",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.1457207,
+      "last_referenced": 1779211517.8324084,
+      "reference_count": 3
+    },
+    "rivers": {
+      "name": "Rivers",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.1626565,
+      "last_referenced": 1779211517.858951,
+      "reference_count": 3
+    },
+    "nile": {
+      "name": "Nile",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.1959994,
+      "last_referenced": 1779211517.8977041,
+      "reference_count": 3
+    },
+    "amazon": {
+      "name": "Amazon",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.2104213,
+      "last_referenced": 1779211517.9211776,
+      "reference_count": 3
+    },
+    "ganga": {
+      "name": "Ganga",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.223168,
+      "last_referenced": 1779211517.9403574,
+      "reference_count": 3
+    },
+    "economics": {
+      "name": "ECONOMICS",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.2352414,
+      "last_referenced": 1779211517.9568617,
+      "reference_count": 3
+    },
+    "money": {
+      "name": "Money",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.2604284,
+      "last_referenced": 1779211518.014069,
+      "reference_count": 6
+    },
+    "trade": {
+      "name": "Trade",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.2878082,
+      "last_referenced": 1779211518.0502646,
+      "reference_count": 6
+    },
+    "banks": {
+      "name": "Banks",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.3130062,
+      "last_referenced": 1779211518.0845509,
+      "reference_count": 6
+    },
+    "supply": {
+      "name": "Supply",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.3422394,
+      "last_referenced": 1779211518.1059642,
+      "reference_count": 3
+    },
+    "demand": {
+      "name": "Demand",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.3557222,
+      "last_referenced": 1779211518.1267412,
+      "reference_count": 3
+    },
+    "high": {
+      "name": "High",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.3682141,
+      "last_referenced": 1779211518.148859,
+      "reference_count": 3
+    },
+    "jobs": {
+      "name": "Jobs",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.3825874,
+      "last_referenced": 1779211518.1679823,
+      "reference_count": 3
+    },
+    "family": {
+      "name": "Family",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.425748,
+      "last_referenced": 1779211518.2544138,
+      "reference_count": 3
+    },
+    "families": {
+      "name": "Families",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.4369967,
+      "last_referenced": 1779211518.2762804,
+      "reference_count": 3
+    },
+    "friendship": {
+      "name": "Friendship",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.4478111,
+      "last_referenced": 1779211518.3190932,
+      "reference_count": 6
+    },
+    "society": {
+      "name": "Society",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.4806652,
+      "last_referenced": 1779211518.3411145,
+      "reference_count": 3
+    },
+    "cooperation": {
+      "name": "Cooperation",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.5299084,
+      "last_referenced": 1779211518.3790898,
+      "reference_count": 3
+    },
+    "working": {
+      "name": "Working",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.5481887,
+      "last_referenced": 1779211518.3982716,
+      "reference_count": 3
+    },
+    "laws": {
+      "name": "Laws",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.564903,
+      "last_referenced": 1779211518.451515,
+      "reference_count": 6
+    },
+    "ethics": {
+      "name": "ETHICS",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.5942106,
+      "last_referenced": 1779211528.7125158,
+      "reference_count": 9
+    },
+    "honesty": {
+      "name": "Honesty",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.6220832,
+      "last_referenced": 1779211518.502771,
+      "reference_count": 3
+    },
+    "truthfulness": {
+      "name": "Truthfulness",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.6369276,
+      "last_referenced": 1779211518.520262,
+      "reference_count": 3
+    },
+    "respect": {
+      "name": "Respect",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.6507487,
+      "last_referenced": 1779211518.5494957,
+      "reference_count": 6
+    },
+    "kindness": {
+      "name": "Kindness",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.683339,
+      "last_referenced": 1779211518.5621505,
+      "reference_count": 3
+    },
+    "helping": {
+      "name": "Helping",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.694669,
+      "last_referenced": 1779211518.5757456,
+      "reference_count": 3
+    },
+    "responsibility": {
+      "name": "Responsibility",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.7091837,
+      "last_referenced": 1779211518.5883148,
+      "reference_count": 3
+    },
+    "actions": {
+      "name": "Actions",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.7211168,
+      "last_referenced": 1779211519.211984,
+      "reference_count": 6
+    },
+    "fairness": {
+      "name": "Fairness",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.7320445,
+      "last_referenced": 1779211518.6095219,
+      "reference_count": 3
+    },
+    "people": {
+      "name": "People",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.7461903,
+      "last_referenced": 1779211518.6198792,
+      "reference_count": 3
+    },
+    "environment": {
+      "name": "ENVIRONMENT",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.762059,
+      "last_referenced": 1779211518.6290066,
+      "reference_count": 3
+    },
+    "pollution": {
+      "name": "Pollution",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.81897,
+      "last_referenced": 1779211518.6765995,
+      "reference_count": 6
+    },
+    "change": {
+      "name": "Change",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.8617666,
+      "last_referenced": 1779211518.693782,
+      "reference_count": 3
+    },
+    "global": {
+      "name": "Global",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.875254,
+      "last_referenced": 1779211518.7061017,
+      "reference_count": 3
+    },
+    "renewable": {
+      "name": "Renewable",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.8884604,
+      "last_referenced": 1779211518.7143815,
+      "reference_count": 3
+    },
+    "wind": {
+      "name": "Wind",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.9508703,
+      "last_referenced": 1779211525.299788,
+      "reference_count": 5
+    },
+    "hydroelectric": {
+      "name": "Hydroelectric",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.9666605,
+      "last_referenced": 1779211518.7962227,
+      "reference_count": 3
+    },
+    "engineering": {
+      "name": "ENGINEERING",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211031.9816036,
+      "last_referenced": 1779211519.0914283,
+      "reference_count": 21
+    },
+    "mechanical": {
+      "name": "Mechanical",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211032.040705,
+      "last_referenced": 1779211518.8902519,
+      "reference_count": 3
+    },
+    "focuses": {
+      "name": "Focuses",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211032.0693312,
+      "last_referenced": 1779211519.1101227,
+      "reference_count": 12
+    },
+    "civil": {
+      "name": "Civil",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211032.1296012,
+      "last_referenced": 1779211519.0076559,
+      "reference_count": 3
+    },
+    "logic": {
+      "name": "LOGIC",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211032.2209704,
+      "last_referenced": 1779211528.6576986,
+      "reference_count": 6
+    },
+    "cause": {
+      "name": "Cause",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211032.250048,
+      "last_referenced": 1779211519.173742,
+      "reference_count": 3
+    },
+    "effect": {
+      "name": "Effect",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211032.2666986,
+      "last_referenced": 1779211519.1911452,
+      "reference_count": 3
+    },
+    "deduction": {
+      "name": "Deduction",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211032.2964888,
+      "last_referenced": 1779211519.2321253,
+      "reference_count": 3
+    },
+    "reasoning": {
+      "name": "Reasoning",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211032.310219,
+      "last_referenced": 1779211520.4250944,
+      "reference_count": 6
+    },
+    "patterns": {
+      "name": "Patterns",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211032.3238149,
+      "last_referenced": 1779211528.611254,
+      "reference_count": 7
+    },
+    "problem": {
+      "name": "Problem",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211032.3563316,
+      "last_referenced": 1779211519.3035471,
+      "reference_count": 3
+    },
+    "solving": {
+      "name": "Solving",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211032.3723328,
+      "last_referenced": 1779211519.323383,
+      "reference_count": 3
+    },
+    "problems": {
+      "name": "Problems",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211032.387815,
+      "last_referenced": 1779211519.34671,
+      "reference_count": 3
+    },
+    "observation": {
+      "name": "Observation",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211032.4373422,
+      "last_referenced": 1779211519.40175,
+      "reference_count": 3
+    },
+    "repetition": {
+      "name": "Repetition",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211032.470599,
+      "last_referenced": 1779211519.4499645,
+      "reference_count": 3
+    },
+    "repeated": {
+      "name": "Repeated",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211032.486343,
+      "last_referenced": 1779211519.4674501,
+      "reference_count": 3
+    },
+    "feedback": {
+      "name": "Feedback",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211032.5026152,
+      "last_referenced": 1779211528.4763024,
+      "reference_count": 5
+    },
+    "corrections": {
+      "name": "Corrections",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211032.5166597,
+      "last_referenced": 1779211519.504856,
+      "reference_count": 3
+    },
+    "adaptation": {
+      "name": "Adaptation",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211032.5606658,
+      "last_referenced": 1779211528.6973624,
+      "reference_count": 7
+    },
+    "intelligent": {
+      "name": "Intelligent",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211032.574596,
+      "last_referenced": 1779211519.561809,
+      "reference_count": 3
+    },
+    "facts": {
+      "name": "FACTS",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211032.5985081,
+      "last_referenced": 1779211528.5752902,
+      "reference_count": 8
+    },
+    "database": {
+      "name": "DATABASE",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211032.6095037,
+      "last_referenced": 1779211519.619216,
+      "reference_count": 3
+    },
+    "planets": {
+      "name": "Planets",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211032.6452718,
+      "last_referenced": 1779211523.5135171,
+      "reference_count": 5
+    },
+    "mercury": {
+      "name": "Mercury",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211032.6573615,
+      "last_referenced": 1779211519.6805155,
+      "reference_count": 3
+    },
+    "venus": {
+      "name": "Venus",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211032.6711338,
+      "last_referenced": 1779211519.6924233,
+      "reference_count": 3
+    },
+    "mars": {
+      "name": "Mars",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211032.699373,
+      "last_referenced": 1779211519.7146387,
+      "reference_count": 3
+    },
+    "jupiter": {
+      "name": "Jupiter",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211032.7113252,
+      "last_referenced": 1779211519.7259333,
+      "reference_count": 3
+    },
+    "saturn": {
+      "name": "Saturn",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211032.7250562,
+      "last_referenced": 1779211519.739074,
+      "reference_count": 3
+    },
+    "uranus": {
+      "name": "Uranus",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211032.7395482,
+      "last_referenced": 1779211519.7481909,
+      "reference_count": 3
+    },
+    "neptune": {
+      "name": "Neptune",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211032.754555,
+      "last_referenced": 1779211519.7583497,
+      "reference_count": 3
+    },
+    "fast": {
+      "name": "Fast",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211032.7685542,
+      "last_referenced": 1779211519.7677488,
+      "reference_count": 3
+    },
+    "interaction": {
+      "name": "INTERACTION",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211032.8991504,
+      "last_referenced": 1779211519.8818123,
+      "reference_count": 3
+    },
+    "conversation": {
+      "name": "Conversation",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211032.9280746,
+      "last_referenced": 1779211519.9147575,
+      "reference_count": 3
+    },
+    "rules": {
+      "name": "Rules",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211032.9429147,
+      "last_referenced": 1779211519.9286885,
+      "reference_count": 3
+    },
+    "listen": {
+      "name": "Listen",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211032.9579694,
+      "last_referenced": 1779211519.9406853,
+      "reference_count": 3
+    },
+    "understand": {
+      "name": "Understand",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211032.9735007,
+      "last_referenced": 1779211519.9536397,
+      "reference_count": 3
+    },
+    "respond": {
+      "name": "Respond",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211032.9885466,
+      "last_referenced": 1779211519.9650583,
+      "reference_count": 3
+    },
+    "avoid": {
+      "name": "Avoid",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211033.0035524,
+      "last_referenced": 1779211522.7372673,
+      "reference_count": 4
+    },
+    "ask": {
+      "name": "Ask",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211033.0171783,
+      "last_referenced": 1779211519.9900959,
+      "reference_count": 3
+    },
+    "helpful": {
+      "name": "Helpful",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211033.0359833,
+      "last_referenced": 1779211520.0130124,
+      "reference_count": 3
+    },
+    "behaviors": {
+      "name": "Behaviors",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211033.053301,
+      "last_referenced": 1779211520.0322957,
+      "reference_count": 3
+    },
+    "explain": {
+      "name": "Explain",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211033.074406,
+      "last_referenced": 1779211520.0549803,
+      "reference_count": 3
+    },
+    "learn": {
+      "name": "Learn",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211033.090503,
+      "last_referenced": 1779211520.0778956,
+      "reference_count": 3
+    },
+    "advanced": {
+      "name": "ADVANCED",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211033.1240566,
+      "last_referenced": 1779211527.5526345,
+      "reference_count": 9
+    },
+    "areas": {
+      "name": "AREAS",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211033.1595535,
+      "last_referenced": 1779211520.1511273,
+      "reference_count": 3
+    },
+    "quantum": {
+      "name": "Quantum",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211033.1973526,
+      "last_referenced": 1779211527.5324702,
+      "reference_count": 5
+    },
+    "neuroscience": {
+      "name": "Neuroscience",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211033.2319436,
+      "last_referenced": 1783178166.4627614,
+      "reference_count": 4
+    },
+    "astronomy": {
+      "name": "Astronomy",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211033.248479,
+      "last_referenced": 1779211523.1966379,
+      "reference_count": 4
+    },
+    "philosophy": {
+      "name": "Philosophy",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211033.266886,
+      "last_referenced": 1779211523.7829113,
+      "reference_count": 6
+    },
+    "linguistics": {
+      "name": "Linguistics",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211033.281768,
+      "last_referenced": 1783178166.4072895,
+      "reference_count": 4
+    },
+    "psychology": {
+      "name": "Psychology",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211033.2969892,
+      "last_referenced": 1783178166.5210226,
+      "reference_count": 5
+    },
+    "biotechnology": {
+      "name": "Biotechnology",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211033.3115594,
+      "last_referenced": 1779211520.306197,
+      "reference_count": 3
+    },
+    "autonomous": {
+      "name": "Autonomous",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211033.3425605,
+      "last_referenced": 1779211523.1098433,
+      "reference_count": 5
+    },
+    "understanding": {
+      "name": "UNDERSTANDING",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211033.3783302,
+      "last_referenced": 1779211528.7580342,
+      "reference_count": 7
+    },
+    "principle": {
+      "name": "PRINCIPLE",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211033.3959794,
+      "last_referenced": 1779211528.558971,
+      "reference_count": 4
+    },
+    "true": {
+      "name": "True",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211033.427438,
+      "last_referenced": 1779211520.401989,
+      "reference_count": 3
+    },
+    "memory": {
+      "name": "Memory",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211033.485952,
+      "last_referenced": 1779211527.1308224,
+      "reference_count": 9
+    },
+    "communication": {
+      "name": "Communication",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211033.571719,
+      "last_referenced": 1779211520.5689185,
+      "reference_count": 3
+    },
+    "text": {
+      "name": "Text",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211520.7698402,
+      "last_referenced": 1779211520.769842,
+      "reference_count": 1
+    },
+    "images": {
+      "name": "Images",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211520.7991266,
+      "last_referenced": 1779211520.7991276,
+      "reference_count": 1
+    },
+    "audio": {
+      "name": "Audio",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211520.811754,
+      "last_referenced": 1779211520.811755,
+      "reference_count": 1
+    },
+    "video": {
+      "name": "Video",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211520.823599,
+      "last_referenced": 1779211526.0792909,
+      "reference_count": 3
+    },
+    "algorithms": {
+      "name": "Algorithms",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211520.8454938,
+      "last_referenced": 1779211520.8687954,
+      "reference_count": 2
+    },
+    "structures": {
+      "name": "Structures",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211520.8966837,
+      "last_referenced": 1779211520.8966854,
+      "reference_count": 1
+    },
+    "arrays": {
+      "name": "Arrays",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211520.9270954,
+      "last_referenced": 1779211520.9270966,
+      "reference_count": 1
+    },
+    "lists": {
+      "name": "Lists",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211520.939204,
+      "last_referenced": 1779211520.9392054,
+      "reference_count": 1
+    },
+    "trees": {
+      "name": "Trees",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211520.9609303,
+      "last_referenced": 1779211520.9609315,
+      "reference_count": 1
+    },
+    "graphs": {
+      "name": "Graphs",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211520.9847374,
+      "last_referenced": 1779211520.9847388,
+      "reference_count": 1
+    },
+    "queues": {
+      "name": "Queues",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211521.0069036,
+      "last_referenced": 1779211521.006905,
+      "reference_count": 1
+    },
+    "stacks": {
+      "name": "Stacks",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211521.0278354,
+      "last_referenced": 1779211521.0278366,
+      "reference_count": 1
+    },
+    "hash": {
+      "name": "Hash",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211521.0482593,
+      "last_referenced": 1779211521.0482605,
+      "reference_count": 1
+    },
+    "gpu": {
+      "name": "GPU",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211521.2205849,
+      "last_referenced": 1779211521.220586,
+      "reference_count": 1
+    },
+    "gpus": {
+      "name": "GPUs",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211521.2452495,
+      "last_referenced": 1779211521.2452505,
+      "reference_count": 1
+    },
+    "cloud": {
+      "name": "Cloud",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211521.26236,
+      "last_referenced": 1779211521.2924097,
+      "reference_count": 2
+    },
+    "computing": {
+      "name": "Computing",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211521.2783408,
+      "last_referenced": 1779211521.2783415,
+      "reference_count": 1
+    },
+    "virtual": {
+      "name": "Virtual",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211521.312338,
+      "last_referenced": 1779211521.3536332,
+      "reference_count": 2
+    },
+    "development": {
+      "name": "DEVELOPMENT",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211521.3899653,
+      "last_referenced": 1779211521.7609231,
+      "reference_count": 4
+    },
+    "frontend": {
+      "name": "Frontend",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211521.4244988,
+      "last_referenced": 1779211521.4610786,
+      "reference_count": 2
+    },
+    "technologies": {
+      "name": "Technologies",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211521.4796546,
+      "last_referenced": 1779211521.651378,
+      "reference_count": 2
+    },
+    "html": {
+      "name": "HTML",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211521.503879,
+      "last_referenced": 1779211521.5038805,
+      "reference_count": 1
+    },
+    "css": {
+      "name": "CSS",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211521.5245962,
+      "last_referenced": 1779211521.5245972,
+      "reference_count": 1
+    },
+    "react": {
+      "name": "React",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211521.5667946,
+      "last_referenced": 1779211521.566796,
+      "reference_count": 1
+    },
+    "backend": {
+      "name": "Backend",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211521.5849385,
+      "last_referenced": 1779211521.6294937,
+      "reference_count": 2
+    },
+    "node.js": {
+      "name": "Node.js",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211521.6867085,
+      "last_referenced": 1779211521.6867094,
+      "reference_count": 1
+    },
+    "go": {
+      "name": "Go",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211521.7168398,
+      "last_referenced": 1779211521.7168405,
+      "reference_count": 1
+    },
+    "full": {
+      "name": "Full",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211521.7302115,
+      "last_referenced": 1779211521.7789137,
+      "reference_count": 2
+    },
+    "stack": {
+      "name": "Stack",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211521.7440073,
+      "last_referenced": 1779211521.7440083,
+      "reference_count": 1
+    },
+    "version": {
+      "name": "Version",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211521.7940273,
+      "last_referenced": 1779211521.7940283,
+      "reference_count": 1
+    },
+    "control": {
+      "name": "Control",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211521.8062267,
+      "last_referenced": 1779211521.8062274,
+      "reference_count": 1
+    },
+    "git": {
+      "name": "Git",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211521.8201425,
+      "last_referenced": 1779211521.8201444,
+      "reference_count": 1
+    },
+    "github": {
+      "name": "GitHub",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211521.8469963,
+      "last_referenced": 1779211521.8665135,
+      "reference_count": 2
+    },
+    "debugging": {
+      "name": "Debugging",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211521.8800178,
+      "last_referenced": 1779211521.9070046,
+      "reference_count": 2
+    },
+    "networking": {
+      "name": "NETWORKING",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211521.9282537,
+      "last_referenced": 1779211521.9282546,
+      "reference_count": 1
+    },
+    "ip": {
+      "name": "IP",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211521.9684224,
+      "last_referenced": 1779211522.0205693,
+      "reference_count": 2
+    },
+    "address": {
+      "name": "Address",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211521.9910116,
+      "last_referenced": 1779211521.991013,
+      "reference_count": 1
+    },
+    "router": {
+      "name": "Router",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211522.0491571,
+      "last_referenced": 1779211522.0491588,
+      "reference_count": 1
+    },
+    "routers": {
+      "name": "Routers",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211522.081121,
+      "last_referenced": 1779211522.0811226,
+      "reference_count": 1
+    },
+    "wi‑fi": {
+      "name": "Wi‑Fi",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211522.110243,
+      "last_referenced": 1779211522.13454,
+      "reference_count": 2
+    },
+    "http": {
+      "name": "HTTP",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211522.157614,
+      "last_referenced": 1779211522.2033553,
+      "reference_count": 2
+    },
+    "https": {
+      "name": "HTTPS",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211522.181294,
+      "last_referenced": 1779211522.2284877,
+      "reference_count": 2
+    },
+    "servers": {
+      "name": "Servers",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211522.2536771,
+      "last_referenced": 1779211522.262704,
+      "reference_count": 2
+    },
+    "clients": {
+      "name": "Clients",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211522.2783883,
+      "last_referenced": 1779211522.2891512,
+      "reference_count": 2
+    },
+    "malware": {
+      "name": "Malware",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211522.3525512,
+      "last_referenced": 1779211522.3646562,
+      "reference_count": 2
+    },
+    "virus": {
+      "name": "Virus",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211522.4044867,
+      "last_referenced": 1779211522.4044874,
+      "reference_count": 1
+    },
+    "worm": {
+      "name": "Worm",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211522.4175043,
+      "last_referenced": 1779211522.417505,
+      "reference_count": 1
+    },
+    "trojan": {
+      "name": "Trojan",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211522.4374762,
+      "last_referenced": 1779211522.4374769,
+      "reference_count": 1
+    },
+    "ransomware": {
+      "name": "Ransomware",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211522.452214,
+      "last_referenced": 1779211522.4522147,
+      "reference_count": 1
+    },
+    "encryption": {
+      "name": "Encryption",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211522.4729416,
+      "last_referenced": 1779211522.4883113,
+      "reference_count": 2
+    },
+    "authentication": {
+      "name": "Authentication",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211522.5050213,
+      "last_referenced": 1779211522.5265887,
+      "reference_count": 2
+    },
+    "firewalls": {
+      "name": "Firewalls",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211522.5477412,
+      "last_referenced": 1779211522.5729878,
+      "reference_count": 2
+    },
+    "phishing": {
+      "name": "Phishing",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211522.599643,
+      "last_referenced": 1779211522.6237512,
+      "reference_count": 2
+    },
+    "safe": {
+      "name": "Safe",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211522.6448274,
+      "last_referenced": 1779211522.6448283,
+      "reference_count": 1
+    },
+    "cyber": {
+      "name": "Cyber",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211522.669082,
+      "last_referenced": 1779211522.6690829,
+      "reference_count": 1
+    },
+    "behavior": {
+      "name": "Behavior",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211522.6919215,
+      "last_referenced": 1779211522.6919227,
+      "reference_count": 1
+    },
+    "use": {
+      "name": "Use",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211522.7162294,
+      "last_referenced": 1779211522.7162304,
+      "reference_count": 1
+    },
+    "protect": {
+      "name": "Protect",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211522.7616928,
+      "last_referenced": 1779211522.7616937,
+      "reference_count": 1
+    },
+    "robots": {
+      "name": "Robots",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211522.8185415,
+      "last_referenced": 1779211522.8428466,
+      "reference_count": 2
+    },
+    "sensors": {
+      "name": "Sensors",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211522.862804,
+      "last_referenced": 1779211522.884605,
+      "reference_count": 2
+    },
+    "cameras": {
+      "name": "Cameras",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211522.9311912,
+      "last_referenced": 1779211522.9311926,
+      "reference_count": 1
+    },
+    "microphones": {
+      "name": "Microphones",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211522.9559407,
+      "last_referenced": 1779211522.9559429,
+      "reference_count": 1
+    },
+    "distance": {
+      "name": "Distance",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211522.9798598,
+      "last_referenced": 1779211522.9798617,
+      "reference_count": 1
+    },
+    "temperature": {
+      "name": "Temperature",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211523.002353,
+      "last_referenced": 1779211523.0023541,
+      "reference_count": 1
+    },
+    "actuators": {
+      "name": "Actuators",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211523.0187597,
+      "last_referenced": 1779211523.0401044,
+      "reference_count": 2
+    },
+    "vision": {
+      "name": "Vision",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211523.1586092,
+      "last_referenced": 1779211523.1586106,
+      "reference_count": 1
+    },
+    "galaxies": {
+      "name": "Galaxies",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211523.230237,
+      "last_referenced": 1779211523.255299,
+      "reference_count": 2
+    },
+    "milky": {
+      "name": "Milky",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211523.2777119,
+      "last_referenced": 1779211523.3427515,
+      "reference_count": 2
+    },
+    "way": {
+      "name": "Way",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211523.2989132,
+      "last_referenced": 1779211523.3686876,
+      "reference_count": 2
+    },
+    "black": {
+      "name": "Black",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211523.393509,
+      "last_referenced": 1779211523.439184,
+      "reference_count": 2
+    },
+    "holes": {
+      "name": "Holes",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211523.41727,
+      "last_referenced": 1779211523.4172714,
+      "reference_count": 1
+    },
+    "stars": {
+      "name": "Stars",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211523.4565027,
+      "last_referenced": 1779211523.4824352,
+      "reference_count": 2
+    },
+    "meteors": {
+      "name": "Meteors",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211523.5267444,
+      "last_referenced": 1779211523.5398307,
+      "reference_count": 2
+    },
+    "mind": {
+      "name": "Mind",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211523.593915,
+      "last_referenced": 1779211523.5939164,
+      "reference_count": 1
+    },
+    "motivation": {
+      "name": "Motivation",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211523.6283658,
+      "last_referenced": 1779211523.6385043,
+      "reference_count": 2
+    },
+    "habits": {
+      "name": "Habits",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211523.6487505,
+      "last_referenced": 1779211523.6587415,
+      "reference_count": 2
+    },
+    "attention": {
+      "name": "Attention",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211523.6691904,
+      "last_referenced": 1779211523.6845582,
+      "reference_count": 2
+    },
+    "consciousness": {
+      "name": "Consciousness",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211523.835738,
+      "last_referenced": 1779211523.8462086,
+      "reference_count": 2
+    },
+    "business": {
+      "name": "BUSINESS",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211523.887639,
+      "last_referenced": 1779211523.8876402,
+      "reference_count": 1
+    },
+    "companies": {
+      "name": "Companies",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211523.9258049,
+      "last_referenced": 1779211523.9381144,
+      "reference_count": 2
+    },
+    "customers": {
+      "name": "Customers",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211523.9496644,
+      "last_referenced": 1779211523.9741366,
+      "reference_count": 2
+    },
+    "profit": {
+      "name": "Profit",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211523.995929,
+      "last_referenced": 1779211524.014518,
+      "reference_count": 2
+    },
+    "marketing": {
+      "name": "Marketing",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211524.0317647,
+      "last_referenced": 1779211524.0486908,
+      "reference_count": 2
+    },
+    "entrepreneurship": {
+      "name": "Entrepreneurship",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211524.0639462,
+      "last_referenced": 1779211524.0639474,
+      "reference_count": 1
+    },
+    "entrepreneurs": {
+      "name": "Entrepreneurs",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211524.0812197,
+      "last_referenced": 1779211524.0812213,
+      "reference_count": 1
+    },
+    "innovation": {
+      "name": "Innovation",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211524.1013248,
+      "last_referenced": 1779211524.116137,
+      "reference_count": 2
+    },
+    "education": {
+      "name": "EDUCATION",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211524.1294527,
+      "last_referenced": 1779211524.1294546,
+      "reference_count": 1
+    },
+    "schools": {
+      "name": "Schools",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211524.1695065,
+      "last_referenced": 1779211524.1822608,
+      "reference_count": 2
+    },
+    "teachers": {
+      "name": "Teachers",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211524.2052577,
+      "last_referenced": 1779211524.2175007,
+      "reference_count": 2
+    },
+    "students": {
+      "name": "Students",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211524.2287502,
+      "last_referenced": 1779211524.239923,
+      "reference_count": 2
+    },
+    "subjects": {
+      "name": "Subjects",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211524.252078,
+      "last_referenced": 1779211524.252079,
+      "reference_count": 1
+    },
+    "exams": {
+      "name": "Exams",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211524.3946543,
+      "last_referenced": 1779211524.4214568,
+      "reference_count": 2
+    },
+    "health": {
+      "name": "HEALTH",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211524.4476333,
+      "last_referenced": 1779211524.4476345,
+      "reference_count": 1
+    },
+    "nutrition": {
+      "name": "Nutrition",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211524.4879012,
+      "last_referenced": 1779211524.503841,
+      "reference_count": 2
+    },
+    "exercise": {
+      "name": "Exercise",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211524.5287588,
+      "last_referenced": 1779211524.5528193,
+      "reference_count": 2
+    },
+    "hygiene": {
+      "name": "Hygiene",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211524.6120794,
+      "last_referenced": 1779211524.6281219,
+      "reference_count": 2
+    },
+    "medicine": {
+      "name": "Medicine",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211524.6514158,
+      "last_referenced": 1779211524.6659815,
+      "reference_count": 2
+    },
+    "vaccines": {
+      "name": "Vaccines",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211524.688533,
+      "last_referenced": 1779211524.7122705,
+      "reference_count": 2
+    },
+    "transportation": {
+      "name": "TRANSPORTATION",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211524.7316868,
+      "last_referenced": 1779211524.7316887,
+      "reference_count": 1
+    },
+    "vehicles": {
+      "name": "Vehicles",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211524.7816868,
+      "last_referenced": 1779211524.8023624,
+      "reference_count": 2
+    },
+    "cars": {
+      "name": "Cars",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211524.8454711,
+      "last_referenced": 1779211524.8454738,
+      "reference_count": 1
+    },
+    "buses": {
+      "name": "Buses",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211524.8654585,
+      "last_referenced": 1779211524.8654592,
+      "reference_count": 1
+    },
+    "trains": {
+      "name": "Trains",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211524.8825552,
+      "last_referenced": 1779211524.882556,
+      "reference_count": 1
+    },
+    "ships": {
+      "name": "Ships",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211524.911496,
+      "last_referenced": 1779211524.9114966,
+      "reference_count": 1
+    },
+    "airplanes": {
+      "name": "Airplanes",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211524.9336941,
+      "last_referenced": 1779211524.933695,
+      "reference_count": 1
+    },
+    "roads": {
+      "name": "Roads",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211524.953779,
+      "last_referenced": 1779211524.9743009,
+      "reference_count": 2
+    },
+    "traffic": {
+      "name": "Traffic",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211524.9913352,
+      "last_referenced": 1779211525.0230262,
+      "reference_count": 2
+    },
+    "signals": {
+      "name": "Signals",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211525.0064642,
+      "last_referenced": 1779211525.0064654,
+      "reference_count": 1
+    },
+    "fuel": {
+      "name": "Fuel",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211525.043406,
+      "last_referenced": 1779211525.0634975,
+      "reference_count": 2
+    },
+    "fossil": {
+      "name": "Fossil",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211525.1244717,
+      "last_referenced": 1779211525.1244726,
+      "reference_count": 1
+    },
+    "fuels": {
+      "name": "Fuels",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211525.1425664,
+      "last_referenced": 1779211525.142567,
+      "reference_count": 1
+    },
+    "coal": {
+      "name": "Coal",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211525.1597185,
+      "last_referenced": 1779211525.1597195,
+      "reference_count": 1
+    },
+    "batteries": {
+      "name": "Batteries",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211525.3233957,
+      "last_referenced": 1779211525.349146,
+      "reference_count": 2
+    },
+    "nuclear": {
+      "name": "Nuclear",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211525.3714714,
+      "last_referenced": 1779211525.414385,
+      "reference_count": 2
+    },
+    "books": {
+      "name": "Books",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211525.4718888,
+      "last_referenced": 1779211525.4929917,
+      "reference_count": 2
+    },
+    "television": {
+      "name": "Television",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211525.5070586,
+      "last_referenced": 1779211525.5266075,
+      "reference_count": 2
+    },
+    "movies": {
+      "name": "Movies",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211525.544682,
+      "last_referenced": 1779211525.56766,
+      "reference_count": 2
+    },
+    "music": {
+      "name": "Music",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211525.588282,
+      "last_referenced": 1779211525.6026702,
+      "reference_count": 2
+    },
+    "news": {
+      "name": "News",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211525.6241364,
+      "last_referenced": 1779211525.647259,
+      "reference_count": 2
+    },
+    "art": {
+      "name": "ART",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211525.6695044,
+      "last_referenced": 1779211525.8547366,
+      "reference_count": 4
+    },
+    "painting": {
+      "name": "Painting",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211525.7509377,
+      "last_referenced": 1779211525.7807953,
+      "reference_count": 2
+    },
+    "sculpture": {
+      "name": "Sculpture",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211525.7960567,
+      "last_referenced": 1779211525.811509,
+      "reference_count": 2
+    },
+    "digital": {
+      "name": "Digital",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211525.8250303,
+      "last_referenced": 1779211525.880733,
+      "reference_count": 2
+    },
+    "animation": {
+      "name": "Animation",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211525.9039328,
+      "last_referenced": 1779211525.927229,
+      "reference_count": 2
+    },
+    "game": {
+      "name": "GAME",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211525.9475691,
+      "last_referenced": 1779211526.279611,
+      "reference_count": 3
+    },
+    "games": {
+      "name": "Games",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211525.9895031,
+      "last_referenced": 1779211526.058217,
+      "reference_count": 3
+    },
+    "strategy": {
+      "name": "Strategy",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211526.1020026,
+      "last_referenced": 1779211526.1288528,
+      "reference_count": 2
+    },
+    "multiplayer": {
+      "name": "Multiplayer",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211526.1491969,
+      "last_referenced": 1779211526.1932957,
+      "reference_count": 2
+    },
+    "unity": {
+      "name": "Unity",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211526.3356936,
+      "last_referenced": 1779211526.3356946,
+      "reference_count": 1
+    },
+    "unreal": {
+      "name": "Unreal",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211526.3632386,
+      "last_referenced": 1779211526.3632398,
+      "reference_count": 1
+    },
+    "engine": {
+      "name": "Engine",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211526.3910828,
+      "last_referenced": 1779211526.3910837,
+      "reference_count": 1
+    },
+    "inference": {
+      "name": "Inference",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211526.5995688,
+      "last_referenced": 1779211526.6266873,
+      "reference_count": 2
+    },
+    "datasets": {
+      "name": "Datasets",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211526.6564324,
+      "last_referenced": 1779211526.675329,
+      "reference_count": 2
+    },
+    "classification": {
+      "name": "Classification",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211526.692731,
+      "last_referenced": 1779211526.7093866,
+      "reference_count": 2
+    },
+    "prediction": {
+      "name": "Prediction",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211526.7245598,
+      "last_referenced": 1779211526.7406156,
+      "reference_count": 2
+    },
+    "reinforcement": {
+      "name": "Reinforcement",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211526.7679427,
+      "last_referenced": 1779211526.7679439,
+      "reference_count": 1
+    },
+    "processing": {
+      "name": "PROCESSING",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211526.8510778,
+      "last_referenced": 1779211526.9160402,
+      "reference_count": 2
+    },
+    "nlp": {
+      "name": "NLP",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211526.9288466,
+      "last_referenced": 1779211526.9288476,
+      "reference_count": 1
+    },
+    "tokens": {
+      "name": "Tokens",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211526.9406579,
+      "last_referenced": 1779211526.9406586,
+      "reference_count": 1
+    },
+    "context": {
+      "name": "Context",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211526.9646792,
+      "last_referenced": 1779211528.6259854,
+      "reference_count": 3
+    },
+    "translation": {
+      "name": "Translation",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211526.9894564,
+      "last_referenced": 1779211527.0021908,
+      "reference_count": 2
+    },
+    "summarization": {
+      "name": "Summarization",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211527.0199735,
+      "last_referenced": 1779211527.0437942,
+      "reference_count": 2
+    },
+    "short-term": {
+      "name": "Short-Term",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211527.0853739,
+      "last_referenced": 1779211527.0853748,
+      "reference_count": 1
+    },
+    "temporary": {
+      "name": "Temporary",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211527.1066616,
+      "last_referenced": 1779211527.1066625,
+      "reference_count": 1
+    },
+    "long-term": {
+      "name": "Long-Term",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211527.1179118,
+      "last_referenced": 1779211527.1179132,
+      "reference_count": 1
+    },
+    "persistent": {
+      "name": "Persistent",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211527.1431057,
+      "last_referenced": 1779211527.1431067,
+      "reference_count": 1
+    },
+    "recall": {
+      "name": "Recall",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211527.155072,
+      "last_referenced": 1779211527.170618,
+      "reference_count": 2
+    },
+    "association": {
+      "name": "Association",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211527.1973352,
+      "last_referenced": 1779211527.197337,
+      "reference_count": 1
+    },
+    "related": {
+      "name": "Related",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211527.214974,
+      "last_referenced": 1779211527.2149756,
+      "reference_count": 1
+    },
+    "dna": {
+      "name": "DNA",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211527.3174272,
+      "last_referenced": 1779211527.3404639,
+      "reference_count": 2
+    },
+    "evolution": {
+      "name": "Evolution",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211527.3621418,
+      "last_referenced": 1779211527.3621445,
+      "reference_count": 1
+    },
+    "species": {
+      "name": "Species",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211527.3846717,
+      "last_referenced": 1779211527.384673,
+      "reference_count": 1
+    },
+    "neurons": {
+      "name": "Neurons",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211527.4151256,
+      "last_referenced": 1779211527.4410164,
+      "reference_count": 2
+    },
+    "organisms": {
+      "name": "Organisms",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211527.4810216,
+      "last_referenced": 1779211527.4810228,
+      "reference_count": 1
+    },
+    "algebra": {
+      "name": "Algebra",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211527.5896873,
+      "last_referenced": 1779211527.6085567,
+      "reference_count": 2
+    },
+    "probability": {
+      "name": "Probability",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211527.6274595,
+      "last_referenced": 1779211527.6422675,
+      "reference_count": 2
+    },
+    "statistics": {
+      "name": "Statistics",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211527.6567197,
+      "last_referenced": 1779211527.6758683,
+      "reference_count": 2
+    },
+    "calculus": {
+      "name": "Calculus",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211527.6947956,
+      "last_referenced": 1779211527.7114847,
+      "reference_count": 2
+    },
+    "coordinate": {
+      "name": "Coordinate",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211527.7268465,
+      "last_referenced": 1779211527.7619138,
+      "reference_count": 2
+    },
+    "culture": {
+      "name": "CULTURE",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211527.7910836,
+      "last_referenced": 1779211527.7910843,
+      "reference_count": 1
+    },
+    "traditions": {
+      "name": "Traditions",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211527.8189504,
+      "last_referenced": 1779211527.8328269,
+      "reference_count": 2
+    },
+    "festivals": {
+      "name": "Festivals",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211527.8459613,
+      "last_referenced": 1779211527.8630857,
+      "reference_count": 2
+    },
+    "diwali": {
+      "name": "Diwali",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211527.889666,
+      "last_referenced": 1779211527.8896666,
+      "reference_count": 1
+    },
+    "christmas": {
+      "name": "Christmas",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211527.901785,
+      "last_referenced": 1779211527.9017854,
+      "reference_count": 1
+    },
+    "eid": {
+      "name": "Eid",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211527.931918,
+      "last_referenced": 1779211527.9319186,
+      "reference_count": 1
+    },
+    "pongal": {
+      "name": "Pongal",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211527.9529507,
+      "last_referenced": 1779211527.9529521,
+      "reference_count": 1
+    },
+    "year": {
+      "name": "Year",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211528.007114,
+      "last_referenced": 1779211528.0071151,
+      "reference_count": 1
+    },
+    "cuisine": {
+      "name": "Cuisine",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211528.0234268,
+      "last_referenced": 1779211528.0234275,
+      "reference_count": 1
+    },
+    "clothing": {
+      "name": "Clothing",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211528.0544007,
+      "last_referenced": 1779211528.0735207,
+      "reference_count": 2
+    },
+    "decision": {
+      "name": "DECISION",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211528.0899067,
+      "last_referenced": 1779211528.1522548,
+      "reference_count": 2
+    },
+    "making": {
+      "name": "MAKING",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211528.1114435,
+      "last_referenced": 1779211528.1114442,
+      "reference_count": 1
+    },
+    "analysis": {
+      "name": "Analysis",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211528.1387804,
+      "last_referenced": 1779211528.138781,
+      "reference_count": 1
+    },
+    "risks": {
+      "name": "Risks",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211528.164978,
+      "last_referenced": 1779211528.1649785,
+      "reference_count": 1
+    },
+    "some": {
+      "name": "Some",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211528.1887205,
+      "last_referenced": 1779211528.1887214,
+      "reference_count": 1
+    },
+    "optimization": {
+      "name": "Optimization",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211528.2024884,
+      "last_referenced": 1779211528.2253592,
+      "reference_count": 2
+    },
+    "trade-offs": {
+      "name": "Trade-Offs",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211528.2396083,
+      "last_referenced": 1779211528.2396092,
+      "reference_count": 1
+    },
+    "choosing": {
+      "name": "Choosing",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211528.2523851,
+      "last_referenced": 1779211528.252386,
+      "reference_count": 1
+    },
+    "thinking": {
+      "name": "THINKING",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211528.2992563,
+      "last_referenced": 1779211528.2992578,
+      "reference_count": 1
+    },
+    "inputs": {
+      "name": "Inputs",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211528.3703516,
+      "last_referenced": 1779211528.3703523,
+      "reference_count": 1
+    },
+    "outputs": {
+      "name": "Outputs",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211528.3903515,
+      "last_referenced": 1779211528.390353,
+      "reference_count": 1
+    },
+    "complexity": {
+      "name": "Complexity",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211528.4959395,
+      "last_referenced": 1779211528.4959407,
+      "reference_count": 1
+    },
+    "complex": {
+      "name": "Complex",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211528.5105548,
+      "last_referenced": 1779211528.5105565,
+      "reference_count": 1
+    },
+    "expanded": {
+      "name": "EXPANDED",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211528.5248008,
+      "last_referenced": 1779211528.5248017,
+      "reference_count": 1
+    },
+    "relationships": {
+      "name": "Relationships",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211528.5923705,
+      "last_referenced": 1779211528.5923722,
+      "reference_count": 1
+    },
+    "consequences": {
+      "name": "Consequences",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211528.6793416,
+      "last_referenced": 1779211528.6793435,
+      "reference_count": 1
+    },
+    "creativity": {
+      "name": "Creativity",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211528.7281818,
+      "last_referenced": 1779211528.728183,
+      "reference_count": 1
+    },
+    "i'd": {
+      "name": "I'd",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211561.0591767,
+      "last_referenced": 1779211561.059179,
+      "reference_count": 1
+    },
+    "there's": {
+      "name": "There's",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779211582.926551,
+      "last_referenced": 1779349856.0968127,
+      "reference_count": 3
+    },
+    "ollama": {
+      "name": "Ollama",
+      "type": "named_entity",
+      "properties": {},
+      "first_seen": 1779369184.6161525,
+      "last_referenced": 1783178233.4887874,
+      "reference_count": 12
+    },
+    "ai safety": {
+      "name": "AI safety",
+      "type": "topic",
+      "properties": {},
+      "first_seen": 1783178166.0754683,
+      "last_referenced": 1783178166.0754688,
+      "reference_count": 1
+    },
+    "ancient civilizations": {
+      "name": "ancient civilizations",
+      "type": "topic",
+      "properties": {},
+      "first_seen": 1783178166.0957959,
+      "last_referenced": 1783178166.0957966,
+      "reference_count": 1
+    },
+    "augmented reality": {
+      "name": "augmented reality",
+      "type": "topic",
+      "properties": {},
+      "first_seen": 1783178166.1172607,
+      "last_referenced": 1783178166.1172614,
+      "reference_count": 1
+    },
+    "bioethics": {
+      "name": "bioethics",
+      "type": "topic",
+      "properties": {},
+      "first_seen": 1783178166.1378887,
+      "last_referenced": 1783178166.1378896,
+      "reference_count": 1
+    },
+    "black holes": {
+      "name": "black holes",
+      "type": "topic",
+      "properties": {},
+      "first_seen": 1783178166.1631331,
+      "last_referenced": 1783178166.1631336,
+      "reference_count": 1
+    },
+    "blockchain": {
+      "name": "blockchain",
+      "type": "topic",
+      "properties": {},
+      "first_seen": 1783178166.1863017,
+      "last_referenced": 1783178166.186302,
+      "reference_count": 1
+    },
+    "cloud computing": {
+      "name": "cloud computing",
+      "type": "topic",
+      "properties": {},
+      "first_seen": 1783178166.2066467,
+      "last_referenced": 1783178166.2066474,
+      "reference_count": 1
+    },
+    "cultural diversity": {
+      "name": "cultural diversity",
+      "type": "topic",
+      "properties": {},
+      "first_seen": 1783178166.22884,
+      "last_referenced": 1783178166.2288406,
+      "reference_count": 1
+    },
+    "digital privacy": {
+      "name": "digital privacy",
+      "type": "topic",
+      "properties": {},
+      "first_seen": 1783178166.277431,
+      "last_referenced": 1783178166.2774317,
+      "reference_count": 1
+    },
+    "edge computing": {
+      "name": "edge computing",
+      "type": "topic",
+      "properties": {},
+      "first_seen": 1783178166.304267,
+      "last_referenced": 1783178166.3042674,
+      "reference_count": 1
+    },
+    "emotional intelligence": {
+      "name": "emotional intelligence",
+      "type": "topic",
+      "properties": {},
+      "first_seen": 1783178166.3285742,
+      "last_referenced": 1783178166.3285747,
+      "reference_count": 1
+    },
+    "environmental sustainability": {
+      "name": "environmental sustainability",
+      "type": "topic",
+      "properties": {},
+      "first_seen": 1783178166.3546474,
+      "last_referenced": 1783178166.354648,
+      "reference_count": 1
+    },
+    "genetic engineering": {
+      "name": "genetic engineering",
+      "type": "topic",
+      "properties": {},
+      "first_seen": 1783178166.3790708,
+      "last_referenced": 1783178166.3790715,
+      "reference_count": 1
+    },
+    "modern diplomacy": {
+      "name": "modern diplomacy",
+      "type": "topic",
+      "properties": {},
+      "first_seen": 1783178166.435997,
+      "last_referenced": 1783178166.4359975,
+      "reference_count": 1
+    },
+    "philosophy of mind": {
+      "name": "philosophy of mind",
+      "type": "topic",
+      "properties": {},
+      "first_seen": 1783178166.4907029,
+      "last_referenced": 1783178166.4907033,
+      "reference_count": 1
+    },
+    "quantum mechanics": {
+      "name": "quantum mechanics",
+      "type": "topic",
+      "properties": {},
+      "first_seen": 1783178166.5460205,
+      "last_referenced": 1783178166.5460207,
+      "reference_count": 1
+    },
+    "renaissance art": {
+      "name": "renaissance art",
+      "type": "topic",
+      "properties": {},
+      "first_seen": 1783178166.5724404,
+      "last_referenced": 1783178166.5724409,
+      "reference_count": 1
+    },
+    "renewable energy": {
+      "name": "renewable energy",
+      "type": "topic",
+      "properties": {},
+      "first_seen": 1783178166.5992026,
+      "last_referenced": 1783178166.5992038,
+      "reference_count": 1
+    },
+    "social justice": {
+      "name": "social justice",
+      "type": "topic",
+      "properties": {},
+      "first_seen": 1783178166.6254127,
+      "last_referenced": 1783178166.6254132,
+      "reference_count": 1
+    },
+    "the industrial revolution": {
+      "name": "the industrial revolution",
+      "type": "topic",
+      "properties": {},
+      "first_seen": 1783178166.652786,
+      "last_referenced": 1783178166.6527863,
+      "reference_count": 1
+    },
+    "the space race": {
+      "name": "the space race",
+      "type": "topic",
+      "properties": {},
+      "first_seen": 1783178166.6819563,
+      "last_referenced": 1783178166.6819575,
+      "reference_count": 1
+    }
+  },
+  "relationships": []
+}

@@ -1,0 +1,560 @@
+{
+  "nature": {
+    "content": [
+      "that the sun is a star"
+    ],
+    "first_learned": 1779181987.0179543,
+    "last_updated": 1779181987.0179617,
+    "access_count": 1
+  },
+  "AI safety": {
+    "content": [
+      {
+        "category": "Ethics",
+        "description": "Comprehensive knowledge on AI safety",
+        "confidence": 0.85,
+        "examples": [
+          "I've been reading about AI safety lately. Become inside dark.",
+          "Did you know that AI safety is related to reduce? It's a fascinating Ethics concept.",
+          "Did you know that AI safety is related to a? It's a fascinating Ethics concept."
+        ],
+        "key_points": [
+          "AI safety is an important concept in Ethics",
+          "Understanding AI safety requires deep analysis",
+          "AI safety has significant implications for modern society"
+        ]
+      }
+    ],
+    "first_learned": 1783178166.0730133,
+    "last_updated": 1783178166.0730178,
+    "access_count": 0
+  },
+  "ancient civilizations": {
+    "content": [
+      {
+        "category": "History",
+        "description": "Comprehensive knowledge on ancient civilizations",
+        "confidence": 0.85,
+        "examples": [
+          "Can you tell me about ancient civilizations? Response picture describe relate third side within nation.",
+          "Did you know that ancient civilizations is related to hear? It's a fascinating History concept.",
+          "Did you know that ancient civilizations is related to thousand? It's a fascinating History concept."
+        ],
+        "key_points": [
+          "ancient civilizations is an important concept in History",
+          "Understanding ancient civilizations requires deep analysis",
+          "ancient civilizations has significant implications for modern society"
+        ]
+      }
+    ],
+    "first_learned": 1783178166.094024,
+    "last_updated": 1783178166.09403,
+    "access_count": 0
+  },
+  "augmented reality": {
+    "content": [
+      {
+        "category": "Technology",
+        "description": "Comprehensive knowledge on augmented reality",
+        "confidence": 0.85,
+        "examples": [
+          "Can you tell me about augmented reality? I happen such research effect clearly.",
+          "Did you know that augmented reality is related to either? It's a fascinating Technology concept.",
+          "Can you tell me about augmented reality? Yourself report billion author reality term around."
+        ],
+        "key_points": [
+          "augmented reality is an important concept in Technology",
+          "Understanding augmented reality requires deep analysis",
+          "augmented reality has significant implications for modern society"
+        ]
+      }
+    ],
+    "first_learned": 1783178166.115179,
+    "last_updated": 1783178166.1151872,
+    "access_count": 0
+  },
+  "bioethics": {
+    "content": [
+      {
+        "category": "Ethics",
+        "description": "Comprehensive knowledge on bioethics",
+        "confidence": 0.85,
+        "examples": [
+          "Can you tell me about bioethics? Drive manage really idea would officer memory.",
+          "Did you know that bioethics is related to natural? It's a fascinating Ethics concept.",
+          "Did you know that bioethics is related to cost? It's a fascinating Ethics concept."
+        ],
+        "key_points": [
+          "bioethics is an important concept in Ethics",
+          "Understanding bioethics requires deep analysis",
+          "bioethics has significant implications for modern society"
+        ]
+      }
+    ],
+    "first_learned": 1783178166.1358204,
+    "last_updated": 1783178166.1358259,
+    "access_count": 0
+  },
+  "black holes": {
+    "content": [
+      {
+        "category": "Science",
+        "description": "Comprehensive knowledge on black holes",
+        "confidence": 0.85,
+        "examples": [
+          "Did you know that black holes is related to none? It's a fascinating Science concept.",
+          "Can you tell me about black holes? Require view protect third help rich.",
+          "Can you tell me about black holes? Country old then theory site."
+        ],
+        "key_points": [
+          "black holes is an important concept in Science",
+          "Understanding black holes requires deep analysis",
+          "black holes has significant implications for modern society"
+        ]
+      }
+    ],
+    "first_learned": 1783178166.161747,
+    "last_updated": 1783178166.1617506,
+    "access_count": 0
+  },
+  "blockchain": {
+    "content": [
+      {
+        "category": "Technology",
+        "description": "Comprehensive knowledge on blockchain",
+        "confidence": 0.85,
+        "examples": [
+          "Can you tell me about blockchain? Across magazine like source.",
+          "Did you know that blockchain is related to check? It's a fascinating Technology concept.",
+          "Did you know that blockchain is related to speech? It's a fascinating Technology concept."
+        ],
+        "key_points": [
+          "blockchain is an important concept in Technology",
+          "Understanding blockchain requires deep analysis",
+          "blockchain has significant implications for modern society"
+        ]
+      }
+    ],
+    "first_learned": 1783178166.1846642,
+    "last_updated": 1783178166.1846697,
+    "access_count": 0
+  },
+  "cloud computing": {
+    "content": [
+      {
+        "category": "Technology",
+        "description": "Comprehensive knowledge on cloud computing",
+        "confidence": 0.85,
+        "examples": [
+          "Can you tell me about cloud computing? Role the human dream.",
+          "I've been reading about cloud computing lately. Teach market card billion day store big tough.",
+          "Can you tell me about cloud computing? Glass somebody state pressure simply energy training."
+        ],
+        "key_points": [
+          "cloud computing is an important concept in Technology",
+          "Understanding cloud computing requires deep analysis",
+          "cloud computing has significant implications for modern society"
+        ]
+      }
+    ],
+    "first_learned": 1783178166.2047422,
+    "last_updated": 1783178166.2047453,
+    "access_count": 0
+  },
+  "cultural diversity": {
+    "content": [
+      {
+        "category": "Humanity",
+        "description": "Comprehensive knowledge on cultural diversity",
+        "confidence": 0.85,
+        "examples": [
+          "Can you tell me about cultural diversity? Man research age national for child win.",
+          "Did you know that cultural diversity is related to final? It's a fascinating Humanity concept.",
+          "I've been reading about cultural diversity lately. Position day lead country task."
+        ],
+        "key_points": [
+          "cultural diversity is an important concept in Humanity",
+          "Understanding cultural diversity requires deep analysis",
+          "cultural diversity has significant implications for modern society"
+        ]
+      }
+    ],
+    "first_learned": 1783178166.2271876,
+    "last_updated": 1783178166.227191,
+    "access_count": 0
+  },
+  "cybersecurity": {
+    "content": [
+      {
+        "category": "Technology",
+        "description": "Comprehensive knowledge on cybersecurity",
+        "confidence": 0.85,
+        "examples": [
+          "Did you know that cybersecurity is related to increase? It's a fascinating Technology concept.",
+          "I've been reading about cybersecurity lately. Why national institution assume civil most home loss.",
+          "Did you know that cybersecurity is related to most? It's a fascinating Technology concept."
+        ],
+        "key_points": [
+          "cybersecurity is an important concept in Technology",
+          "Understanding cybersecurity requires deep analysis",
+          "cybersecurity has significant implications for modern society"
+        ]
+      }
+    ],
+    "first_learned": 1783178166.2530293,
+    "last_updated": 1783178166.2530332,
+    "access_count": 0
+  },
+  "digital privacy": {
+    "content": [
+      {
+        "category": "Ethics",
+        "description": "Comprehensive knowledge on digital privacy",
+        "confidence": 0.85,
+        "examples": [
+          "I've been reading about digital privacy lately. Financial should during.",
+          "Can you tell me about digital privacy? Quickly land run fact front tell option receive.",
+          "I've been reading about digital privacy lately. Right whatever child Democrat military present if."
+        ],
+        "key_points": [
+          "digital privacy is an important concept in Ethics",
+          "Understanding digital privacy requires deep analysis",
+          "digital privacy has significant implications for modern society"
+        ]
+      }
+    ],
+    "first_learned": 1783178166.2755318,
+    "last_updated": 1783178166.275535,
+    "access_count": 0
+  },
+  "edge computing": {
+    "content": [
+      {
+        "category": "Technology",
+        "description": "Comprehensive knowledge on edge computing",
+        "confidence": 0.85,
+        "examples": [
+          "Did you know that edge computing is related to student? It's a fascinating Technology concept.",
+          "I've been reading about edge computing lately. Something develop turn easy decision.",
+          "I've been reading about edge computing lately. Forward dark amount itself."
+        ],
+        "key_points": [
+          "edge computing is an important concept in Technology",
+          "Understanding edge computing requires deep analysis",
+          "edge computing has significant implications for modern society"
+        ]
+      }
+    ],
+    "first_learned": 1783178166.3019671,
+    "last_updated": 1783178166.3019707,
+    "access_count": 0
+  },
+  "emotional intelligence": {
+    "content": [
+      {
+        "category": "Humanity",
+        "description": "Comprehensive knowledge on emotional intelligence",
+        "confidence": 0.85,
+        "examples": [
+          "Can you tell me about emotional intelligence? Meeting type feel agree.",
+          "I've been reading about emotional intelligence lately. Political tonight so speak rise.",
+          "Can you tell me about emotional intelligence? Figure standard make soldier."
+        ],
+        "key_points": [
+          "emotional intelligence is an important concept in Humanity",
+          "Understanding emotional intelligence requires deep analysis",
+          "emotional intelligence has significant implications for modern society"
+        ]
+      }
+    ],
+    "first_learned": 1783178166.325778,
+    "last_updated": 1783178166.3257802,
+    "access_count": 0
+  },
+  "environmental sustainability": {
+    "content": [
+      {
+        "category": "Ethics",
+        "description": "Comprehensive knowledge on environmental sustainability",
+        "confidence": 0.85,
+        "examples": [
+          "Did you know that environmental sustainability is related to reveal? It's a fascinating Ethics concept.",
+          "Can you tell me about environmental sustainability? Than scene sport husband.",
+          "Did you know that environmental sustainability is related to within? It's a fascinating Ethics concept."
+        ],
+        "key_points": [
+          "environmental sustainability is an important concept in Ethics",
+          "Understanding environmental sustainability requires deep analysis",
+          "environmental sustainability has significant implications for modern society"
+        ]
+      }
+    ],
+    "first_learned": 1783178166.3519373,
+    "last_updated": 1783178166.3519511,
+    "access_count": 0
+  },
+  "genetic engineering": {
+    "content": [
+      {
+        "category": "Science",
+        "description": "Comprehensive knowledge on genetic engineering",
+        "confidence": 0.85,
+        "examples": [
+          "Can you tell me about genetic engineering? Fall whether truth seem hospital.",
+          "Did you know that genetic engineering is related to common? It's a fascinating Science concept.",
+          "Did you know that genetic engineering is related to plant? It's a fascinating Science concept."
+        ],
+        "key_points": [
+          "genetic engineering is an important concept in Science",
+          "Understanding genetic engineering requires deep analysis",
+          "genetic engineering has significant implications for modern society"
+        ]
+      }
+    ],
+    "first_learned": 1783178166.3762395,
+    "last_updated": 1783178166.3762455,
+    "access_count": 0
+  },
+  "linguistics": {
+    "content": [
+      {
+        "category": "Humanity",
+        "description": "Comprehensive knowledge on linguistics",
+        "confidence": 0.85,
+        "examples": [
+          "I've been reading about linguistics lately. Tonight contain performance kid movie.",
+          "I've been reading about linguistics lately. Article sometimes decide.",
+          "Did you know that linguistics is related to among? It's a fascinating Humanity concept."
+        ],
+        "key_points": [
+          "linguistics is an important concept in Humanity",
+          "Understanding linguistics requires deep analysis",
+          "linguistics has significant implications for modern society"
+        ]
+      }
+    ],
+    "first_learned": 1783178166.4045053,
+    "last_updated": 1783178166.40451,
+    "access_count": 0
+  },
+  "modern diplomacy": {
+    "content": [
+      {
+        "category": "History",
+        "description": "Comprehensive knowledge on modern diplomacy",
+        "confidence": 0.85,
+        "examples": [
+          "Did you know that modern diplomacy is related to field? It's a fascinating History concept.",
+          "I've been reading about modern diplomacy lately. Attention else reveal executive.",
+          "I've been reading about modern diplomacy lately. Agree start draw drive audience arrive physical."
+        ],
+        "key_points": [
+          "modern diplomacy is an important concept in History",
+          "Understanding modern diplomacy requires deep analysis",
+          "modern diplomacy has significant implications for modern society"
+        ]
+      }
+    ],
+    "first_learned": 1783178166.433308,
+    "last_updated": 1783178166.4333153,
+    "access_count": 0
+  },
+  "neuroscience": {
+    "content": [
+      {
+        "category": "Science",
+        "description": "Comprehensive knowledge on neuroscience",
+        "confidence": 0.85,
+        "examples": [
+          "I've been reading about neuroscience lately. Remain voice over out almost.",
+          "I've been reading about neuroscience lately. Well toward relationship test.",
+          "Can you tell me about neuroscience? Many range visit rich."
+        ],
+        "key_points": [
+          "neuroscience is an important concept in Science",
+          "Understanding neuroscience requires deep analysis",
+          "neuroscience has significant implications for modern society"
+        ]
+      }
+    ],
+    "first_learned": 1783178166.4601088,
+    "last_updated": 1783178166.4601123,
+    "access_count": 0
+  },
+  "philosophy of mind": {
+    "content": [
+      {
+        "category": "Humanity",
+        "description": "Comprehensive knowledge on philosophy of mind",
+        "confidence": 0.85,
+        "examples": [
+          "I've been reading about philosophy of mind lately. One meeting check hotel letter never.",
+          "Can you tell me about philosophy of mind? Heart consider rise candidate.",
+          "Did you know that philosophy of mind is related to including? It's a fascinating Humanity concept."
+        ],
+        "key_points": [
+          "philosophy of mind is an important concept in Humanity",
+          "Understanding philosophy of mind requires deep analysis",
+          "philosophy of mind has significant implications for modern society"
+        ]
+      }
+    ],
+    "first_learned": 1783178166.4884567,
+    "last_updated": 1783178166.4884593,
+    "access_count": 0
+  },
+  "psychology": {
+    "content": [
+      {
+        "category": "Humanity",
+        "description": "Comprehensive knowledge on psychology",
+        "confidence": 0.85,
+        "examples": [
+          "Did you know that psychology is related to medical? It's a fascinating Humanity concept.",
+          "I've been reading about psychology lately. Stock walk fight stand far.",
+          "I've been reading about psychology lately. Let attention recognize its until."
+        ],
+        "key_points": [
+          "psychology is an important concept in Humanity",
+          "Understanding psychology requires deep analysis",
+          "psychology has significant implications for modern society"
+        ]
+      }
+    ],
+    "first_learned": 1783178166.5184557,
+    "last_updated": 1783178166.5184593,
+    "access_count": 0
+  },
+  "quantum mechanics": {
+    "content": [
+      {
+        "category": "Science",
+        "description": "Comprehensive knowledge on quantum mechanics",
+        "confidence": 0.85,
+        "examples": [
+          "Can you tell me about quantum mechanics? Environmental picture send nation trip.",
+          "Did you know that quantum mechanics is related to evidence? It's a fascinating Science concept.",
+          "I've been reading about quantum mechanics lately. Spend mention happy least visit rest."
+        ],
+        "key_points": [
+          "quantum mechanics is an important concept in Science",
+          "Understanding quantum mechanics requires deep analysis",
+          "quantum mechanics has significant implications for modern society"
+        ]
+      }
+    ],
+    "first_learned": 1783178166.5435708,
+    "last_updated": 1783178166.5435736,
+    "access_count": 0
+  },
+  "renaissance art": {
+    "content": [
+      {
+        "category": "History",
+        "description": "Comprehensive knowledge on renaissance art",
+        "confidence": 0.85,
+        "examples": [
+          "I've been reading about renaissance art lately. Health against support standard turn method.",
+          "I've been reading about renaissance art lately. Figure state give fine expert trouble base.",
+          "I've been reading about renaissance art lately. Part employee body establish."
+        ],
+        "key_points": [
+          "renaissance art is an important concept in History",
+          "Understanding renaissance art requires deep analysis",
+          "renaissance art has significant implications for modern society"
+        ]
+      }
+    ],
+    "first_learned": 1783178166.569482,
+    "last_updated": 1783178166.569488,
+    "access_count": 0
+  },
+  "renewable energy": {
+    "content": [
+      {
+        "category": "Science",
+        "description": "Comprehensive knowledge on renewable energy",
+        "confidence": 0.85,
+        "examples": [
+          "Can you tell me about renewable energy? Perform talk argue person into fast.",
+          "I've been reading about renewable energy lately. Key her really.",
+          "Can you tell me about renewable energy? Change recent break job energy."
+        ],
+        "key_points": [
+          "renewable energy is an important concept in Science",
+          "Understanding renewable energy requires deep analysis",
+          "renewable energy has significant implications for modern society"
+        ]
+      }
+    ],
+    "first_learned": 1783178166.5956604,
+    "last_updated": 1783178166.5956635,
+    "access_count": 0
+  },
+  "social justice": {
+    "content": [
+      {
+        "category": "Ethics",
+        "description": "Comprehensive knowledge on social justice",
+        "confidence": 0.85,
+        "examples": [
+          "I've been reading about social justice lately. Not near recent daughter.",
+          "I've been reading about social justice lately. Film indicate raise sound behavior role soon accept.",
+          "Did you know that social justice is related to cover? It's a fascinating Ethics concept."
+        ],
+        "key_points": [
+          "social justice is an important concept in Ethics",
+          "Understanding social justice requires deep analysis",
+          "social justice has significant implications for modern society"
+        ]
+      }
+    ],
+    "first_learned": 1783178166.6228726,
+    "last_updated": 1783178166.622875,
+    "access_count": 0
+  },
+  "the industrial revolution": {
+    "content": [
+      {
+        "category": "History",
+        "description": "Comprehensive knowledge on the industrial revolution",
+        "confidence": 0.85,
+        "examples": [
+          "Did you know that the industrial revolution is related to skin? It's a fascinating History concept.",
+          "Did you know that the industrial revolution is related to she? It's a fascinating History concept.",
+          "Did you know that the industrial revolution is related to truth? It's a fascinating History concept."
+        ],
+        "key_points": [
+          "the industrial revolution is an important concept in History",
+          "Understanding the industrial revolution requires deep analysis",
+          "the industrial revolution has significant implications for modern society"
+        ]
+      }
+    ],
+    "first_learned": 1783178166.6490645,
+    "last_updated": 1783178166.6490738,
+    "access_count": 0
+  },
+  "the space race": {
+    "content": [
+      {
+        "category": "History",
+        "description": "Comprehensive knowledge on the space race",
+        "confidence": 0.85,
+        "examples": [
+          "I've been reading about the space race lately. Others idea present agency maintain.",
+          "Did you know that the space race is related to bag? It's a fascinating History concept.",
+          "Did you know that the space race is related to late? It's a fascinating History concept."
+        ],
+        "key_points": [
+          "the space race is an important concept in History",
+          "Understanding the space race requires deep analysis",
+          "the space race has significant implications for modern society"
+        ]
+      }
+    ],
+    "first_learned": 1783178166.6764188,
+    "last_updated": 1783178166.6764228,
+    "access_count": 0
+  }
+}

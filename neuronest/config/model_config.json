@@ -1,0 +1,11 @@
+{
+  "provider": "ollama",
+  "ollama": {
+    "model_name": "tinyllama",
+    "base_url": "http://127.0.0.1:11434"
+  },
+  "gemini": {
+    "model_name": "gemini-3.5-pro",
+    "api_key_env": "GEMINI_API_KEY"
+  }
+}

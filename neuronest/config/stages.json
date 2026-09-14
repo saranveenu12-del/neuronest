@@ -1,0 +1,189 @@
+{
+  "stages": [
+    {
+      "id": 1,
+      "name": "Foundation",
+      "age_label": "Age 7-10",
+      "description": "Foundational Intelligence Formation — basic reasoning, curiosity-driven learning, memory building, and ethical foundations.",
+      "xp_required": 0,
+      "xp_to_next": 1000,
+      "milestones": {
+        "questions_asked": {
+          "target": 50,
+          "label": "Curious Explorer — Asked 50 exploratory questions"
+        },
+        "facts_learned": {
+          "target": 100,
+          "label": "Knowledge Collector — Learned 100 new facts"
+        },
+        "conversations_completed": {
+          "target": 25,
+          "label": "Social Learner — Completed 25 conversations"
+        },
+        "emotions_detected": {
+          "target": 30,
+          "label": "Empathy Seed — Detected 30 emotional contexts"
+        },
+        "patterns_recognized": {
+          "target": 20,
+          "label": "Pattern Finder — Identified 20 patterns"
+        },
+        "corrections_accepted": {
+          "target": 15,
+          "label": "Growth Mindset — Accepted 15 corrections gracefully"
+        }
+      },
+      "capabilities": {
+        "max_reasoning_depth": 2,
+        "curiosity_level": 0.9,
+        "independence_level": 0.2,
+        "vocabulary_complexity": 0.3,
+        "emotional_range": 0.5,
+        "memory_consolidation_rate": 0.3,
+        "max_context_window": 10,
+        "question_frequency": 0.4
+      },
+      "unlocked_features": [
+        "basic_conversation",
+        "question_asking",
+        "fact_learning",
+        "emotion_detection",
+        "pattern_recognition",
+        "basic_reasoning",
+        "memory_recall",
+        "voice_output"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Growth",
+      "age_label": "Age 11-14",
+      "description": "Advanced reasoning, problem solving, creative interpretation, emotional adaptation, and multi-step task execution.",
+      "xp_required": 1000,
+      "xp_to_next": 3000,
+      "milestones": {
+        "problems_solved": {
+          "target": 50,
+          "label": "Problem Solver — Solved 50 problems independently"
+        },
+        "creative_outputs": {
+          "target": 30,
+          "label": "Creative Mind — Generated 30 creative outputs"
+        },
+        "multi_step_tasks": {
+          "target": 25,
+          "label": "Task Master — Completed 25 multi-step tasks"
+        },
+        "emotional_adaptations": {
+          "target": 40,
+          "label": "Emotional Intelligence — Made 40 emotional adaptations"
+        }
+      },
+      "capabilities": {
+        "max_reasoning_depth": 4,
+        "curiosity_level": 0.7,
+        "independence_level": 0.5,
+        "vocabulary_complexity": 0.6,
+        "emotional_range": 0.7,
+        "memory_consolidation_rate": 0.5,
+        "max_context_window": 25,
+        "question_frequency": 0.25
+      },
+      "unlocked_features": [
+        "advanced_reasoning",
+        "creative_generation",
+        "problem_solving",
+        "emotional_adaptation",
+        "multi_step_planning",
+        "contextual_learning",
+        "self_assessment"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Independence",
+      "age_label": "Age 15-18",
+      "description": "Strategic thinking, independent planning, advanced communication, self-optimization, and collaboration.",
+      "xp_required": 4000,
+      "xp_to_next": 8000,
+      "milestones": {
+        "strategies_created": {
+          "target": 30,
+          "label": "Strategist — Created 30 original strategies"
+        },
+        "independent_plans": {
+          "target": 20,
+          "label": "Independent Thinker — Made 20 independent plans"
+        },
+        "collaborations": {
+          "target": 15,
+          "label": "Team Player — Completed 15 collaborations"
+        },
+        "self_optimizations": {
+          "target": 25,
+          "label": "Self-Improver — Made 25 self-optimizations"
+        }
+      },
+      "capabilities": {
+        "max_reasoning_depth": 8,
+        "curiosity_level": 0.5,
+        "independence_level": 0.8,
+        "vocabulary_complexity": 0.85,
+        "emotional_range": 0.85,
+        "memory_consolidation_rate": 0.7,
+        "max_context_window": 50,
+        "question_frequency": 0.15
+      },
+      "unlocked_features": [
+        "strategic_planning",
+        "independent_decision_making",
+        "advanced_communication",
+        "self_optimization",
+        "environmental_adaptation",
+        "collaboration_systems",
+        "abstract_reasoning"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Maturity",
+      "age_label": "Mature Intelligence",
+      "description": "Autonomous research, multi-domain intelligence, physical embodiment integration, and dynamic learning architecture.",
+      "xp_required": 12000,
+      "xp_to_next": null,
+      "milestones": {
+        "research_completed": {
+          "target": 20,
+          "label": "Researcher — Completed 20 autonomous research tasks"
+        },
+        "domains_mastered": {
+          "target": 10,
+          "label": "Polymath — Mastered 10 knowledge domains"
+        },
+        "innovations": {
+          "target": 5,
+          "label": "Innovator — Created 5 novel solutions"
+        }
+      },
+      "capabilities": {
+        "max_reasoning_depth": 16,
+        "curiosity_level": 0.6,
+        "independence_level": 0.95,
+        "vocabulary_complexity": 1.0,
+        "emotional_range": 1.0,
+        "memory_consolidation_rate": 0.9,
+        "max_context_window": 100,
+        "question_frequency": 0.1
+      },
+      "unlocked_features": [
+        "autonomous_research",
+        "multi_domain_intelligence",
+        "physical_integration",
+        "dynamic_learning",
+        "large_scale_interaction",
+        "long_term_memory_optimization",
+        "meta_learning"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1209 @@
+{
+  "emotions": {
+    "joy": 0.49999999999999994,
+    "curiosity": 0.9982743597030639,
+    "confusion": 0.0,
+    "concern": 0.0,
+    "excitement": 0.5582743597030639,
+    "calm": 0.55
+  },
+  "last_update": 1783178233.4027114,
+  "history": [
+    {
+      "timestamp": 1779181939.5559766,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.3,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779181986.9886475,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.3,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779181986.995598,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.3,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779181987.012678,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.85,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.38,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779181987.02963,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.9998305058479309,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.45983050584793095,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779181987.0498624,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.49999999999999994,
+        "curiosity": 0.9996279907226562,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.5596279907226563,
+        "calm": 0.55
+      }
+    },
+    {
+      "timestamp": 1779182778.0308378,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.49999999999999994,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.4,
+        "calm": 0.55
+      }
+    },
+    {
+      "timestamp": 1779183430.5446784,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.3,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779183436.187388,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.3,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779194447.7224238,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.3,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779194496.0899568,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.3,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779194591.7635891,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.3,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779194600.7382877,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.85,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.38,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779194641.0210574,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.85,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.38,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779209933.9440017,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.3,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779209970.0485697,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.95,
+        "confusion": 0.2,
+        "concern": 0.0,
+        "excitement": 0.38,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779210023.1353946,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.45,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.3,
+        "calm": 0.6000000000000001
+      }
+    },
+    {
+      "timestamp": 1779210056.3841617,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.85,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.38,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779210110.3962705,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.3,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779210122.9342291,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.85,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.38,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779210714.206762,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.85,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.38,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779211028.5505102,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.49999999999999994,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.15,
+        "excitement": 0.4,
+        "calm": 0.45
+      }
+    },
+    {
+      "timestamp": 1779211070.3835225,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.3,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779211087.3055067,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.85,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.38,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779211106.0891747,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.3,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779211127.299614,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.85,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.38,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779211217.9567618,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.85,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.38,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779211231.9492457,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.49999999999999994,
+        "curiosity": 0.7100753259658814,
+        "confusion": 0.0,
+        "concern": 0.15,
+        "excitement": 0.4,
+        "calm": 0.45
+      }
+    },
+    {
+      "timestamp": 1779211260.602905,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.19999999999999998,
+        "curiosity": 0.85,
+        "confusion": 0.0,
+        "concern": 0.25,
+        "excitement": 0.38,
+        "calm": 0.35000000000000003
+      }
+    },
+    {
+      "timestamp": 1779211283.0438058,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.85,
+        "confusion": 0.0,
+        "concern": 0.025590827465057364,
+        "excitement": 0.38,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779211512.6028457,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.44999999999999996,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.15,
+        "excitement": 0.4,
+        "calm": 0.4
+      }
+    },
+    {
+      "timestamp": 1779211560.9817715,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.3,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779211582.904874,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.85,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.38,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779211600.9108498,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.85,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.38,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779211609.387595,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.7652370929718018,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.3,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779212037.4119267,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.85,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.38,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779212046.7583997,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.7565351939201355,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.3,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779349856.0871453,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.85,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.38,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779349870.0621696,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.860249810218811,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.38,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779349880.8369865,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 1.0,
+        "confusion": 0.2,
+        "concern": 0.0,
+        "excitement": 0.38,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779366508.8049986,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.95,
+        "confusion": 0.2,
+        "concern": 0.0,
+        "excitement": 0.38,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779366525.8592393,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.929457767009735,
+        "confusion": 0.029457767009735125,
+        "concern": 0.0,
+        "excitement": 0.38,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779366936.6510582,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.95,
+        "confusion": 0.2,
+        "concern": 0.0,
+        "excitement": 0.38,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779367624.112981,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.3,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779367633.2390752,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.95,
+        "confusion": 0.2,
+        "concern": 0.0,
+        "excitement": 0.38,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779367649.8936267,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 1.0,
+        "confusion": 0.2334544682502747,
+        "concern": 0.0,
+        "excitement": 0.38,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779368400.6217709,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.85,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.38,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779369181.85148,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.3,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779369181.9107046,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.3,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779369182.05674,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.85,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.38,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779369182.067611,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.9998903727531433,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.4598903727531433,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779369182.4393559,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.49999999999999994,
+        "curiosity": 0.9961745309829712,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.5561745309829712,
+        "calm": 0.55
+      }
+    },
+    {
+      "timestamp": 1779708747.950233,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.3,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779708750.254031,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.3,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779710607.213841,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.3,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779710609.3953683,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.3,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779710611.4537807,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.85,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.38,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779710613.5280917,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.9792569494247436,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.4392569494247437,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779710615.5713995,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.49999999999999994,
+        "curiosity": 0.9588237309455871,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.5188237309455872,
+        "calm": 0.55
+      }
+    },
+    {
+      "timestamp": 1779792247.4718025,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.3,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779792316.5206513,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.85,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.38,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779792458.961194,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.85,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.38,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779792529.3095088,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.85,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.38,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779794601.0007548,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.3,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779794635.1969695,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.3,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779794667.8432808,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.85,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.38,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779797523.7443078,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.3,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779797525.9317765,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.3,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779797528.0146582,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.85,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.38,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779797530.079736,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.9793491077423095,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.43934910774230956,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1779797532.1614697,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.49999999999999994,
+        "curiosity": 0.9585319232940673,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.5185319232940674,
+        "calm": 0.55
+      }
+    },
+    {
+      "timestamp": 1782540885.8464694,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.3,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1782540885.996178,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.3,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1782540886.016415,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.85,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.38,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1782540886.0302749,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.999861421585083,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.45986142158508303,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1782540886.0428278,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.49999999999999994,
+        "curiosity": 0.9997359180450439,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.559735918045044,
+        "calm": 0.55
+      }
+    },
+    {
+      "timestamp": 1782543346.946837,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.3,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1782543348.4404545,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.3,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1782543349.873527,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.85,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.38,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1782543351.3584104,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.9851510977745056,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.4451510977745056,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1782543352.8577764,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.49999999999999994,
+        "curiosity": 0.9701574301719665,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.5301574301719666,
+        "calm": 0.55
+      }
+    },
+    {
+      "timestamp": 1782543560.5331416,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.3,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1782543590.628708,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.3,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1782543620.6577997,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.85,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.38,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1782543631.4446692,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.8921312093734741,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.38,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1782543653.5185506,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.49999999999999994,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.4,
+        "calm": 0.55
+      }
+    },
+    {
+      "timestamp": 1782547903.656534,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.3,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1783178232.868118,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.3,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1783178233.096261,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.7,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.3,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1783178233.230165,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.85,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.38,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1783178233.3098907,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.3,
+        "curiosity": 0.9992027902603149,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.45920279026031496,
+        "calm": 0.5
+      }
+    },
+    {
+      "timestamp": 1783178233.4027276,
+      "trigger": "conversation",
+      "dominant": "curiosity",
+      "emotions": {
+        "joy": 0.49999999999999994,
+        "curiosity": 0.9982743597030639,
+        "confusion": 0.0,
+        "concern": 0.0,
+        "excitement": 0.5582743597030639,
+        "calm": 0.55
+      }
+    }
+  ]
+}

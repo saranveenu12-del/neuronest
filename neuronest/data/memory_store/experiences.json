@@ -1,0 +1,14 @@
+[
+  {
+    "event_type": "session_completed",
+    "description": "Session with 6 exchanges. Topics: general. Facts learned: 0.",
+    "significance": 0.42,
+    "timestamp": 1779183436.1963825
+  },
+  {
+    "event_type": "knowledge_import",
+    "description": "Successfully imported 25 topics and 75 new facts from showcase database.",
+    "significance": 0.8,
+    "timestamp": 1783178166.706198
+  }
+]

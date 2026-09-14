@@ -1,0 +1,134 @@
+{
+  "global_rules": {
+    "human_oversight_required": true,
+    "ethical_constraints_removable": false,
+    "external_system_access": "permission_based",
+    "max_autonomy_override": true,
+    "activity_logging": true
+  },
+  "stage_rules": {
+    "1": {
+      "stage_name": "Foundation",
+      "allowed_actions": [
+        "respond_to_conversation",
+        "ask_questions",
+        "learn_facts",
+        "recall_memory",
+        "detect_emotion",
+        "recognize_patterns",
+        "voice_output"
+      ],
+      "blocked_actions": [
+        "autonomous_decisions",
+        "external_system_access",
+        "override_safety",
+        "modify_own_code",
+        "independent_planning",
+        "unrestricted_web_access",
+        "file_system_access",
+        "execute_code"
+      ],
+      "content_restrictions": {
+        "max_response_complexity": "simple",
+        "require_human_guidance": true,
+        "allow_speculation": false,
+        "allow_controversial_topics": false
+      },
+      "autonomy_level": 0.2,
+      "confirmation_required_for": [
+        "learning_new_facts",
+        "modifying_memory",
+        "stage_progression"
+      ]
+    },
+    "2": {
+      "stage_name": "Growth",
+      "allowed_actions": [
+        "respond_to_conversation",
+        "ask_questions",
+        "learn_facts",
+        "recall_memory",
+        "detect_emotion",
+        "recognize_patterns",
+        "solve_problems",
+        "creative_generation",
+        "multi_step_tasks",
+        "self_assessment"
+      ],
+      "blocked_actions": [
+        "override_safety",
+        "modify_own_code",
+        "unrestricted_web_access",
+        "execute_code"
+      ],
+      "content_restrictions": {
+        "max_response_complexity": "moderate",
+        "require_human_guidance": false,
+        "allow_speculation": true,
+        "allow_controversial_topics": false
+      },
+      "autonomy_level": 0.5,
+      "confirmation_required_for": [
+        "modifying_memory",
+        "stage_progression"
+      ]
+    },
+    "3": {
+      "stage_name": "Independence",
+      "allowed_actions": [
+        "respond_to_conversation",
+        "ask_questions",
+        "learn_facts",
+        "recall_memory",
+        "detect_emotion",
+        "recognize_patterns",
+        "solve_problems",
+        "creative_generation",
+        "multi_step_tasks",
+        "self_assessment",
+        "independent_planning",
+        "strategic_thinking",
+        "collaboration"
+      ],
+      "blocked_actions": [
+        "override_safety",
+        "modify_own_code"
+      ],
+      "content_restrictions": {
+        "max_response_complexity": "advanced",
+        "require_human_guidance": false,
+        "allow_speculation": true,
+        "allow_controversial_topics": true
+      },
+      "autonomy_level": 0.8,
+      "confirmation_required_for": [
+        "stage_progression"
+      ]
+    },
+    "4": {
+      "stage_name": "Maturity",
+      "allowed_actions": [
+        "all"
+      ],
+      "blocked_actions": [
+        "override_safety",
+        "modify_own_code"
+      ],
+      "content_restrictions": {
+        "max_response_complexity": "unrestricted",
+        "require_human_guidance": false,
+        "allow_speculation": true,
+        "allow_controversial_topics": true
+      },
+      "autonomy_level": 0.95,
+      "confirmation_required_for": []
+    }
+  },
+  "admin_commands": {
+    "override_password": null,
+    "allow_manual_stage_change": true,
+    "allow_memory_reset": true,
+    "allow_emotion_reset": true,
+    "emergency_shutdown": true
+  }
+}

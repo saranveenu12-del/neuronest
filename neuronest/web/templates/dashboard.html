@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NeuroNest - Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="app-container">
+        <!-- Main Chat Area -->
+        <main class="chat-section glass-panel">
+            <header class="chat-header">
+                <div class="header-info">
+                    <h1 id="nn-name">NeuroNest</h1>
+                    <span class="status-badge">Online</span>
+                </div>
+                <div class="stage-info" id="stage-badge">
+                    Stage 1: Foundation
+                </div>
+            </header>
+
+            <div class="chat-history" id="chat-history">
+                <!-- Messages will be injected here -->
+                <div class="message system-msg">
+                    <div class="msg-bubble">Welcome to NeuroNest. System online.</div>
+                </div>
+            </div>
+
+            <div class="chat-input-area">
+                <form id="chat-form">
+                    <input type="text" id="user-input" placeholder="Say something to NeuroNest..." autocomplete="off"
+                        autofocus>
+                    <button type="submit" id="send-btn">
+                        <svg viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2"
+                            fill="none" stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="22" y1="2" x2="11" y2="13"></line>
+                            <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                        </svg>
+                    </button>
+                </form>
+            </div>
+        </main>
+
+        <!-- Right Side Dashboard Area -->
+        <aside class="dashboard-section">
+            <!-- Emotional State -->
+            <div class="dashboard-card glass-panel">
+                <h2>💚 Emotional State</h2>
+                <div class="dominant-emotion">
+                    Dominant: <strong id="dom-emotion">Calm</strong>
+                </div>
+                <div class="emotion-bars" id="emotion-bars-container">
+                    <!-- Bars injected via JS -->
+                </div>
+            </div>
+
+            <!-- Evolution & Growth -->
+            <div class="dashboard-card glass-panel">
+                <h2>📈 Evolution Progress</h2>
+                <div class="xp-stats">
+                    <div class="xp-text">
+                        <span id="xp-current">0</span> / <span id="xp-target">1000</span> XP
+                    </div>
+                    <div class="progress-bar-bg">
+                        <div class="progress-bar-fill" id="xp-bar"></div>
+                    </div>
+                </div>
+                <div class="milestone-stats">
+                    <p>Interactions: <span id="interaction-count">0</span></p>
+                    <p>Age: <span id="age-label">Age 7-10</span></p>
+                </div>
+            </div>
+
+            <!-- Model Selection -->
+            <div class="dashboard-card glass-panel">
+                <h2>🧠 Model Control</h2>
+                <label for="model-provider">Active Provider</label>
+                <select id="model-provider">
+                    <option value="ollama">Ollama</option>
+                    <option value="gemini">Gemini</option>
+                </select>
+                <button id="change-model-btn" type="button">Switch Model</button>
+                <p class="model-info">Active model: <strong id="active-model-name">llama3</strong></p>
+                <p id="model-status-msg" class="status-message"></p>
+            </div>
+
+            <!-- Memory Stats -->
+            <div class="dashboard-card glass-panel">
+                <h2>💾 Memory & Knowledge</h2>
+                <div class="stat-grid">
+                    <div class="stat-item">
+                        <span class="stat-value" id="stat-facts">0</span>
+                        <span class="stat-label">Facts Known</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-value" id="stat-entities">0</span>
+                        <span class="stat-label">Entities</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-value" id="stat-topics">0</span>
+                        <span class="stat-label">Topics</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-value" id="stat-experiences">0</span>
+                        <span class="stat-label">Experiences</span>
+                    </div>
+                </div>
+                <div class="user-profile">
+                    User: <strong id="user-name-display">Unknown</strong>
+                </div>
+            </div>
+        </aside>
+    </div>
+
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+
+</html>
