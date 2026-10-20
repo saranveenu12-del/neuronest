@@ -69,7 +69,7 @@ export const appRouter = router({
 
         return {
           response:
-            "I do not have a reviewed answer for that question yet. Try one of the nature questions in the explorer, or ask me about ecosystems, plants, animals, weather, Earth, or conservation.",
+            "I do not have a reviewed answer for that question yet. I can still help you explore the idea carefully through the hosted model, or you can start with one of the reviewed nature questions in the learning compass.",
           source: "safe_fallback" as const,
           confidence: null,
           matchedQuestion: null,

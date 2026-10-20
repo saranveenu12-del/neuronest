@@ -1,5 +1,5 @@
 import { FormEvent, useMemo, useState } from "react";
-import { BookOpen, CheckCircle2, Leaf, Loader2, Send, ShieldCheck, Sparkles } from "lucide-react";
+import { BrainCircuit, BookOpen, CheckCircle2, Compass, Loader2, Send, ShieldCheck, Sparkles } from "lucide-react";
 import { Streamdown } from "streamdown";
 import { trpc } from "@/lib/trpc";
 import { NATURE_ENTRIES, NATURE_QUESTION_COUNT } from "@shared/natureKnowledge";
@@ -14,9 +14,9 @@ type Message = {
 };
 
 const starterPrompts = [
-  "What is biodiversity?",
   "Help me understand a difficult idea",
   "What should I learn about today?",
+  "Help me think through a decision",
   "How do I build a good learning habit?",
 ];
 
@@ -26,7 +26,7 @@ export default function Home() {
     {
       id: 1,
       role: "assistant",
-      text: "Hello. I’m NeuroNest, your evolving AI companion for learning, reflection, and discovery. Nature is one of my learning domains, but you can bring me any thoughtful question.",
+      text: "Hello. I’m NeuroNest, your evolving AI companion for learning, reflection, and discovery. Bring me a question, an idea, a challenge, or a moment you want to understand better.",
       source: "welcome",
     },
   ]);
@@ -70,7 +70,7 @@ export default function Home() {
     <main className="site-shell">
       <header className="topbar">
         <a className="brand" href="/" aria-label="NeuroNest home">
-          <span className="brand-mark"><Leaf size={20} strokeWidth={2.5} /></span>
+          <span className="brand-mark"><BrainCircuit size={20} strokeWidth={2.5} /></span>
           <span>NeuroNest</span>
         </a>
         <div className="topbar-note"><span className="live-dot" /> Learn · remember · grow</div>
@@ -78,9 +78,9 @@ export default function Home() {
 
       <section className="hero-grid">
         <div className="hero-copy">
-          <p className="eyebrow"><Sparkles size={15} /> A calmer way to get curious</p>
-          <h1>Meet a companion for <em>curious minds.</em></h1>
-          <p className="hero-lede">NeuroNest helps you explore ideas, learn clearly, remember what matters, and grow through conversation—with a carefully reviewed nature library as one of its learning foundations.</p>
+          <p className="eyebrow"><Sparkles size={15} /> A thoughtful space for growing minds</p>
+          <h1>Think deeper. <em>Grow with NeuroNest.</em></h1>
+          <p className="hero-lede">NeuroNest is an evolving AI companion for learning, reflection, memory, and discovery. Explore any subject with a system designed to be curious, emotionally aware, and clear about uncertainty—with nature as one of its strongest learning domains.</p>
           <div className="hero-proof">
             <span><CheckCircle2 size={17} /> {NATURE_QUESTION_COUNT} reviewed questions</span>
             <span><ShieldCheck size={17} /> Uncertainty is stated clearly</span>
@@ -88,7 +88,7 @@ export default function Home() {
         </div>
         <div className="orbital-art" aria-hidden="true">
           <div className="orbit orbit-one" /><div className="orbit orbit-two" /><div className="orbit orbit-three" />
-          <div className="glow-orb"><Leaf size={54} strokeWidth={1.2} /></div>
+          <div className="glow-orb"><BrainCircuit size={54} strokeWidth={1.2} /></div>
           <span className="orbit-dot dot-one" /><span className="orbit-dot dot-two" /><span className="orbit-dot dot-three" />
         </div>
       </section>
@@ -102,7 +102,7 @@ export default function Home() {
           <div className="message-list" aria-live="polite">
             {messages.map(message => (
               <div className={`message-row ${message.role}`} key={message.id}>
-                {message.role === "assistant" && <div className="avatar"><Leaf size={16} /></div>}
+                {message.role === "assistant" && <div className="avatar"><BrainCircuit size={16} /></div>}
                 <div className="message-stack">
                   <div className="message-bubble"><Streamdown>{message.text}</Streamdown></div>
                   {message.role === "assistant" && message.source !== "welcome" && (
@@ -114,11 +114,11 @@ export default function Home() {
                 </div>
               </div>
             ))}
-            {ask.isPending && <div className="message-row assistant"><div className="avatar"><Leaf size={16} /></div><div className="message-bubble typing"><Loader2 size={16} className="spin" /> Thinking carefully…</div></div>}
+            {ask.isPending && <div className="message-row assistant"><div className="avatar"><BrainCircuit size={16} /></div><div className="message-bubble typing"><Loader2 size={16} className="spin" /> Thinking carefully…</div></div>}
           </div>
           <form className="composer" onSubmit={submit}>
-            <label className="sr-only" htmlFor="question">Ask a nature question</label>
-            <input id="question" value={input} onChange={event => setInput(event.target.value)} placeholder="Ask about plants, animals, weather…" maxLength={500} />
+            <label className="sr-only" htmlFor="question">Ask NeuroNest a question</label>
+            <input id="question" value={input} onChange={event => setInput(event.target.value)} placeholder="Ask about an idea, subject, or challenge…" maxLength={500} />
             <button type="submit" aria-label="Send question" disabled={!input.trim() || ask.isPending}><Send size={18} /></button>
           </form>
           <div className="starter-row" aria-label="Suggested questions">
@@ -127,8 +127,8 @@ export default function Home() {
         </div>
 
         <aside className="explorer-card panel">
-          <div className="panel-heading compact"><div><p className="section-kicker">Learning library</p><h2>Explore a starting point</h2></div><BookOpen size={20} /></div>
-          <p className="explorer-intro">Nature is a major NeuroNest learning domain. Browse reviewed prompts here, or use the chat for any subject.</p>
+          <div className="panel-heading compact"><div><p className="section-kicker">Learning compass</p><h2>Explore a starting point</h2></div><Compass size={20} /></div>
+          <p className="explorer-intro">Nature is a major NeuroNest learning domain. Browse reviewed prompts here, or use the chat to explore any subject, reflect, and build understanding.</p>
           <div className="explorer-list">
             {explorerQuestions.map(entry => <button key={entry.question} type="button" onClick={() => setInput(entry.question)}><span>{entry.question}</span><span className="arrow">↗</span></button>)}
           </div>
@@ -136,7 +136,7 @@ export default function Home() {
         </aside>
       </section>
 
-      <footer className="footer"><span>NeuroNest Nature Learning</span><span>Learn carefully. Stay curious.</span></footer>
+      <footer className="footer"><span>NeuroNest · Evolving AI companion</span><span>Learn carefully. Stay curious.</span></footer>
     </main>
   );
 }

@@ -88,10 +88,15 @@ pnpm run dev
 - **Self-Evolving Cognitive Architecture**: Progresses through developmental stages from foundational cognition to maturity.
 - **Dynamic Emotional Intelligence**: Contextual emotional adaptation reflecting ongoing user interactions and resonance.
 - **Hybrid Memory Systems**: Combines episodic memories, learned facts, and persistent preferences.
-- **Modern Interactive UI**: Contemplative, sleek interface with real-time showcases, cognitive telemetry, and chat.
+- **Modern Interactive UI**: A broad cognitive-companion workspace for conversation, reflection, learning, and discovery, with nature as a major reviewed learning domain.
 
 ---
 
 ## 📜 License
 
 MIT License. Designed with ❤️ for lifelong learning and human-AI collaboration.
+
+---
+## 🧭 Product direction
+
+NeuroNest is intentionally broader than any single subject area. The hosted experience presents it as an evolving AI companion for learning, memory, reflection, and discovery. The reviewed nature library remains available as a high-confidence learning foundation, while the hosted model can support thoughtful questions across domains and should state uncertainty clearly.
